@@ -1,0 +1,5910 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "This Question Booklet is divided into three Parts–Part–I, Part–II and Part–III. Part–I contains questions of Language (Qualifying), Part–II contains questions of General Studies and Part –III contains questions of Hindi. 2. Part–I, Language (Qualifying) consists of Question Nos. 1 to 30. In Part–I, English Language consists of Question Nos. E-1 to E-8 (common for all), Hindi Language consists of Question Nos. H-9 to H-30, Urdu Language consists of Question Nos. U-9 to U-30 and Bengali Language consists of Question Nos. B-9 to B-30 (Students are required to choose the questions from any one language out of three languages). Part-II consists of Question Nos. 31 to 70 (the questions and their responses are printed in English and Hindi versions both) and Part–III consists of Question Nos. 71 to 150. 3. All questions carry equal marks. 4. An Answer Sheet has been supplied inside the question booklet to mark the answers. You must write your Roll Number and other particulars in the space provided in the Answer Sheet, failing which your Answer Sheet will not be evaluated. 5. Immediately after commencement of the examination, you should check up your Question Booklet and attached answer sheet and ensure that the Question Booklet Series is printed on the top right - hand corner of the Booklet and the series encoded in answer sheet are same. Also please check that the Booklet contains 32 printed pages including one page (Page No. 31) for Rough Work and no page or question is missing or unprinted or torn or repeated or question booklet and answer sheet have different series. If you find any defect in this Booklet, get it replaced immediately by a complete Booklet with OMR sheet of the same series. 6. You must write your Roll Number in the space provided on the top of this page. Do not write anything else on the Question Booklet. 7. Each question comprises of Five responses–(A), (B), (C), (D) and (E). You are to select ONLY ONE correct response and mark it in your Answer Sheet. Your total marks will depend on the number of correct responses marked by you in the Answer Sheet. 8. In the Answer Sheet, there are Five circles– A , B , C , D and E against each question. To answer the questions, you are to mark with Black/Blue ink ballpoint pen ONLY ONE circle of your choice for each question. Select only one response for each question and mark it in your Answer Sheet. If you mark more than one answer for one question, the answer will be treated as wrong. Use Black/Blue ink ballpoint pen only to mark the answer in the Answer Sheet. Any erasure or change is not allowed. 9. If there is any sort of mistake either of printing or of factual nature, then out of English and Hindi versions of the questions, the English version will be treated as standard. 10. You should not remove or tear off any sheet from the Question Booklet. You are not allowed to take this Question Booklet and the Answer Sheet out of the Examination Hall during the examination. After the examination has concluded, you must hand over your Answer Sheet to the Invigilator. Thereafter, you are permitted to take away the Question Booklet with you. 11. Failure to comply with any of the above instructions will render you liable to such action or penalty as the Commission may decide at their discretion. 12. Candidates must assure before leaving the Examination Hall that their Answer Sheets will be kept in Self Adhesive LDPE Bag and completely packed/sealed in their presence. 2 12/MAV/M-2024-02/S-302-E Directions ( Q. Nos. E-1 to E-5 ) Read the passage given below and answer the questions that follow : Amitabh Bachchan, popularly known as big B, was born in Allahabad, Uttar Pradesh on 11 October 1942. He is an iconic actor whose career in Indian Cinema has spanned four decades. His father H.R. Bachchan was a well-known Hindi poet. (Bachchan is actually his father’s pen name but has now become the family surname) Amitabh attended boys’ High School in Allahabad, followed by Sherwood College in Nainital and earned a degree in science from Delhi university. His first film was ‘Saat Hindustani’(1969). He became well-known as a movie star in 1973 after the success of ‘Abhimaan’ and ‘Zanjeer’ which was followed by his box office successes such as ‘Sholay’ ‘Amar Akbar Anthony’, ‘Trishul’, ‘Don’ and “Deewar’. He often played the role of an angry young man fighting a corrupt establishment, a theme that had tremendous appeal in India at that time. E-1. Which city is the birth place of Amitabh in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bombay"
+      },
+      {
+        "id": "B",
+        "text": "Delhi"
+      },
+      {
+        "id": "C",
+        "text": "Bangalore"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 2,
+    "question": "How long has Amitabh Bachchan dominated Indian Cinema?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three decades"
+      },
+      {
+        "id": "B",
+        "text": "Four decades"
+      },
+      {
+        "id": "C",
+        "text": "Two decades"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 3,
+    "question": "From which university did Amitabh earn his degree in science?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aligarh Muslim University"
+      },
+      {
+        "id": "B",
+        "text": "Banaras Hindu University"
+      },
+      {
+        "id": "C",
+        "text": "Punjab University"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above PART - I (English Language) E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 4,
+    "question": "When did Amitabh got recognition as a movie star in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1966"
+      },
+      {
+        "id": "B",
+        "text": "1969"
+      },
+      {
+        "id": "C",
+        "text": "1973"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 5,
+    "question": "Which film of the following is Amitabh’s first film?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘Zanjeer’"
+      },
+      {
+        "id": "B",
+        "text": "‘Abhiman’"
+      },
+      {
+        "id": "C",
+        "text": "‘Saat Hindustani’"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above Directions ( Q. Nos. E-6 and E-7 ) : Fill in the blanks with suitable articles like ‘a’ ‘an’ ‘the’ : E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 6,
+    "question": "The shadow of moon fills on ______ Earth.",
+    "options": [
+      {
+        "id": "A",
+        "text": "an"
+      },
+      {
+        "id": "B",
+        "text": "a"
+      },
+      {
+        "id": "C",
+        "text": "the"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 7,
+    "question": "I have always wanted to study abroad, not only for ____ degree but also for the experience.",
+    "options": [
+      {
+        "id": "A",
+        "text": "an"
+      },
+      {
+        "id": "B",
+        "text": "a"
+      },
+      {
+        "id": "C",
+        "text": "the"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above E-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 8,
+    "question": "First May 2024 is Wednesday, what day of the week would be 9 th of May?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Friday"
+      },
+      {
+        "id": "B",
+        "text": "Thursday"
+      },
+      {
+        "id": "C",
+        "text": "Monday"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above 3 12/MAV/M-2024-02/S-302-E [P.T.O. (Hindi Language) (H$) (H$) (H$) (H$) (H$) {ZåZ{b{IV JÚm§em| H$mo n‹T>H$a ‘yÔo JE àíZm| H$m CÎma Xr{OE -> n§{S>V am‘ àgmX {~pñ‘b CZ ‘hmZ H«$m§{VH$m[a¶m| ‘| go EH$ Wo, {OÝhm|Zo AnZo H$m¶m] go A§J«oμOr hþHy$‘V H$mo {hbm {X¶m Wm& O~ am‘ àgmX Am¶© g‘mO Ho$ g§nH©$ ‘| AmE, BZHo$ OrdZ ‘| H«$m§{V Am JB©, BZ‘| ~wamB¶m| H$m gm‘Zm H$aZo H$m gmhg OmJ CR>m& CZ {XZm| ñdV§ÌVm Am§XmobZ μOmoa na Wm& am‘ àgmX H$mo nVm Mbm {H$ H«$m§{VH$mar ¶wdH$ Xoe ‘| gOJ h¢ VWm Xoe H$s ñdV§ÌVm Ho$ {bE ‘a {‘Q>Zo H$mo V¡¶ma h¢& {~pñ‘b H«$m§{VH$mar g§JR>Z Ho$ gXñ¶ ~Z JE& BÝhm|Zo EH$ nwñVH$ ^r {bIr- \"A‘arH$m H$mo ñdV§ÌVm H¡$go {‘br?' BZH$s \"ñdXoe-a§J' Zm‘H$ nwñVH$ ~hþV à{gÕ h¡& Am§XmobZ ‘| YZ H$s H$‘r EH$ ~hþV ~‹S>r g‘ñ¶m Wr& YZ OwQ>mZo Ho$ {bE BÝhm|Zo {H$gr XrZ-hrZ H$mo Zht gVm¶m, ~pëH$ A§J«oμOm| H$m gaH$mar IμOmZm byQ>Zo H$s ¶moOZm ~ZmB©& BÝhm|Zo 9 AJñV, 1925 H$mo H$mH$moar ñQ>oeZ na YZ byQ>H$a ñdmYrZVm g§J«m‘ ‘| bJm {X¶m& BgHo$ {bE BZna ‘wH$X‘m Mbm¶m J¶m& BÝh| ’$m±gr H$s gμOm Xr JB©& n§{S>V {~pñ‘b Zo 26-27 df© H$s Am¶w ‘| dh H$m¶© H$a {XIm¶m, Omo b§~r Am¶w OrZo dmbo ^r Zht H$a nmVo& ¶o EH$ H${d ^r Wo, BZH$s ¶o n§{º$¶m± g‘¶-g‘¶ na h‘| àoaUm XoVr h¢ : \"gaμ’$amoer H$s V‘Þm A~ h‘mao {Xb ‘| h¡& XoIZm h¡ μOmoa {H$VZm ~mμOw E-H$m{Vb ‘| h¡&&' H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 9,
+    "question": "am‘ àgmX Ho$ OrdZ ‘| n[adV©Z H$~ Am¶m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H«$m§{VH$m[a¶m| Ho$ g§nH©$ ‘| AmZo na"
+      },
+      {
+        "id": "B",
+        "text": "O~ A‘arH$m H$mo ñdV§ÌVm {‘br"
+      },
+      {
+        "id": "C",
+        "text": "O~ do Am¶© g‘mO Ho$ g§nH©$ ‘| AmE"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 10,
+    "question": "{~pñ‘b Zo YZ H$s g‘ñ¶m H¡$go hb H$s?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gaH$mar IμOmZm byQ>H$a"
+      },
+      {
+        "id": "B",
+        "text": "M§Xm BH$Q²>R>m H$aHo$"
+      },
+      {
+        "id": "C",
+        "text": "μJar~m| H$mo byQ>H$a"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 11,
+    "question": "{~pñ‘b ‘hmZ H«$m§{VH$mar ³¶m| H$hbmE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "³¶m|{H$ CÝh| ’$m±gr H$s gμOm Xr JB©&"
+      },
+      {
+        "id": "B",
+        "text": "³¶m|{H$ CÝhm|Zo nwñVH|$ {bIt&"
+      },
+      {
+        "id": "C",
+        "text": "³¶m|{H$ CÝhm|Zo AnZo H$m¶m] go A§J«oμOr hþHy$‘V H$mo {hbm {X¶m&"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 12,
+    "question": "\"gOJ' ‘| ‘yb eãX h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "gO"
+      },
+      {
+        "id": "B",
+        "text": "OJ"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 13,
+    "question": "\"ñdV§ÌVm' eãX H$m {dbmo‘ h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "JUV§ÌVm"
+      },
+      {
+        "id": "B",
+        "text": "bmoH$V§ÌVm"
+      },
+      {
+        "id": "C",
+        "text": "àOmV§ÌVm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 14,
+    "question": "\"b§~r Am¶w OrZo dmbm' dm³¶m§e Ho$ {bE EH$ eãX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "b§~m¶w"
+      },
+      {
+        "id": "B",
+        "text": "XrKm©¶w"
+      },
+      {
+        "id": "C",
+        "text": "Aënm¶w"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 4 12/MAV/M-2024-02/S-302-E (I) (I) (I) (I) (I) ‘Zwî¶ H$m OrdZ g§gma Ho$ N>moQ>o-~‹S>o àm{U¶m| Am¡a nXmWm] ‘| loð> ‘mZm J¶m h¡& dh Bg{bE {H$ ‘Zwî¶ ~‹S>m ~w{Õ‘mZ Am¡a H$ënZmerb àmUr h¡& AnZo {dMmam| Ho$ ~b na hr dh Omo Mmho H$a gH$Vm h¡ Am¡a ~hþV D±$Mm CR> gH$Vm h¡& na§Vw {dMma gƒo, gmXo Am¡a n{dÌ hmoZo Ho$ gmW-gmW ‘Zwî¶ Ho$ ì¶mdhm[aH$ OrdZ go g§~§Y aIZo dmbo hmoZo Mm{hE& BÝht ~mVm| H$mo AmYma ~ZmH$a \"gmXm OrdZ, Cƒ {dMma' H$mo ‘mZd-OrdZ H$s g’$bVm H$s gr‹T>r ‘mZm J¶m h¡& gmXJr ‘Zwî¶ Ho$ nhZmdo go Zht, ~pëH$ CgHo$ àË¶oH$ hmd-^md, {dMma VWm OrdZ Ho$ T>§J go Q>nH$Zr Mm{hE& ¶hr dmñV{dH$ gmXJr h¡, Omo {dMmam| H$mo ^r Cƒ ~ZmH$a g~ àH$ma H$s CÞ{V Am¡a {dH$mg H$m H$maU ~ZVr h¡& g§gma H$m B{Vhmg Bg ~mV H$m Jdmh h¡ {H$ Ama§^ go hr gmXJr ng§X ì¶{º$ hr OZVm H$mo Cƒ {dMma XoH$a CÞ{V Am¡a {dH$mg H$s amh àeñV H$aVo Am aho h¢& ‘hmË‘m ~wÕ, g§V H$~ra, Jwê$ ZmZH$, ‘hmË‘m Jm±Yr, S>m°. amYmH¥$îUZ, {dZmo~m ^mdo Am{X Bg VÏ¶ Ho$ àË¶j à‘mU h¢&> H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 15,
+    "question": "‘Zwî¶ H$m OrdZ loð> ³¶m| ‘mZm OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "³¶m|{H$ dh g’$b h¡"
+      },
+      {
+        "id": "B",
+        "text": "³¶m|{H$ dh ~w{Õ‘mZ Am¡a H$ënZmerb h¡"
+      },
+      {
+        "id": "C",
+        "text": "³¶m|{H$ dh n[al‘r Am¡a H$R>moa h¡"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 16,
+    "question": "CÞ{V H$aZo Ho$ {bE ‘Zwî¶ Ho$ {dMma H¡$go hmooZo Mm{hE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PyR>o, D±$Mo Am¡a An{dÌ"
+      },
+      {
+        "id": "B",
+        "text": "~o~w{Z¶mX"
+      },
+      {
+        "id": "C",
+        "text": "‘moh-‘m¶m go ¶wº$"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 17,
+    "question": "dmñV{dH$ gmXJr ³¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "d¡Mm[aH$ Am¡a ì¶mdhm[aH$"
+      },
+      {
+        "id": "B",
+        "text": "‘Zwî¶ H$m nhZmdm"
+      },
+      {
+        "id": "C",
+        "text": "‘Zwî¶ H$m {XImdm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 18,
+    "question": "\"CÞ{V' eãX H$m C{MV {dbmo‘ eãX h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "àmoÞ{V"
+      },
+      {
+        "id": "B",
+        "text": "nXmoÞ{V"
+      },
+      {
+        "id": "C",
+        "text": "AdZ{V"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 19,
+    "question": "\"‘hmZ h¡ Omo AmË‘m' H$m g‘mg h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$‘©Yma¶ g‘mg"
+      },
+      {
+        "id": "B",
+        "text": "Aì¶¶r^md g‘mg"
+      },
+      {
+        "id": "C",
+        "text": "VËnwê$f g‘mg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 20,
+    "question": "\"àË¶oH$' eãX H$m ghr dU©-{dÀN>oX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "n² + a² + Am + V² + A + ¶² + E + H²$"
+      },
+      {
+        "id": "B",
+        "text": "n² + a² + A² + V² + A + ¶² + E + H²$ + A"
+      },
+      {
+        "id": "C",
+        "text": "n² + a² + A + V² + ¶² + E + H²$ + A"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 21,
+    "question": "{ZåZ{b{IV ‘| go d¥{Õ g§{Y H$m CXmhaU h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "{nÌmXoe"
+      },
+      {
+        "id": "B",
+        "text": "{Jare"
+      },
+      {
+        "id": "C",
+        "text": "‘hm¡Oñdr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 22,
+    "question": "{ZåZ{b{IV ‘| go ewÕ dV©Zr h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "A{Û{V¶"
+      },
+      {
+        "id": "B",
+        "text": "A{ÛVr¶"
+      },
+      {
+        "id": "C",
+        "text": "A{ÛÎmr¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 5 12/MAV/M-2024-02/S-302-E [P.T.O. H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 23,
+    "question": "{ZåZ{b{IV ‘| go Om{VdmMH$ g§km h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "~hZ"
+      },
+      {
+        "id": "B",
+        "text": "‘§Ìr"
+      },
+      {
+        "id": "C",
+        "text": "Owbmhm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 24,
+    "question": "\"M§Ð‘m' H$m n¶m©¶dmMr h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "amHo$e"
+      },
+      {
+        "id": "B",
+        "text": "gma§J"
+      },
+      {
+        "id": "C",
+        "text": "Am{XË¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 25,
+    "question": "\"pñWa' H$m {dbmo‘ eãX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "M§Mb"
+      },
+      {
+        "id": "B",
+        "text": "ApñWa"
+      },
+      {
+        "id": "C",
+        "text": "{Z{d©H$ma"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 26,
+    "question": "\"‘¢ EH$ brQ>a XÿY nrVm h±ÿ' - ‘| {deofU eãX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘¢"
+      },
+      {
+        "id": "B",
+        "text": "EH$ brQ>a"
+      },
+      {
+        "id": "C",
+        "text": "XÿY"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 27,
+    "question": "\"H¥$îUmn©U' eãX ‘| H$m¡Z-gm g‘mg h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aì¶¶r^md"
+      },
+      {
+        "id": "B",
+        "text": "H$‘©Yma¶"
+      },
+      {
+        "id": "C",
+        "text": "~hþ~«rhr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 28,
+    "question": "{ZåZ{b{IV dm³¶m§e Ho$ {bE EH$ eãX ~VmBE - \"H$‘ ~mobZodmbm'",
+    "options": [
+      {
+        "id": "A",
+        "text": "{‘V^mfr"
+      },
+      {
+        "id": "B",
+        "text": "dmMmb"
+      },
+      {
+        "id": "C",
+        "text": "{‘ï>^mfr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 29,
+    "question": "\"CXmgrZ hmo OmZo' Ho$ {bE ghr ‘whmdam h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Am±I| MwamZm"
+      },
+      {
+        "id": "B",
+        "text": "Am±Im| ‘| J‹S>Zm"
+      },
+      {
+        "id": "C",
+        "text": "Am±I| ’o$a boZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht H-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 30,
+    "question": "\"{ZanamY' ‘| CngJ© h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "{Z"
+      },
+      {
+        "id": "B",
+        "text": "{Za²"
+      },
+      {
+        "id": "C",
+        "text": "{Zg²"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht                   1938    4                                                                                                                                                                     1953                                                                                                    U-14  U-9                                              .U-9   (A)    (B)      (C)                (D)             (E)               .U-10  (A)  (B)    (C)                (D)             (E)                           .U-11             (A)        (B)     (C)                (D)             (E)                .U-12       (A)        (B)         (C)                (D)             (E)                       .U-13         (A)        (B)    (C)                (D)             (E)              1953 .U-14   (A)   (B)     (C)                (D)             (E)       1941   15                                              1999               35                                                    1964 12/MAV/M-2024-02/S-302-E 6 (Urdu Language)    (2001)            1967  :\"(1977)                                                        1988         1988       1955                        2004                                         U-20  U-15                           .U-15    (A)  (B)    (C)                (D)             (E)               .U-16   (A)  (B)     (C)                (D)             (E)                 .U-17        (A)     (B)        (C)                (D)             (E)                       .U-18         (A)   (B)      (C)                (D)             (E)                      1998 .U-19                (A)             (B)              (C)                (D)             (E)               .U-20    (A)         (B)       (C)                (D)             (E)                         .U-21           (A)    (B)   (C)                (D)             (E)                       .U-22      (A)       (B)       (C)                (D)             (E) 12/MAV/M-2024-02/S-302-E [P.T.O. 7             .U-23   (A)   (B)   (C)                (D)             (E)                .U-24    (A)    (B)    (C)                (D)             (E)                  .U-25   (A)  (B)  (C)                (D)             (E)                    .U-26      (A)     (B)  (C)                (D)             (E)                        .U-27    (A)   (B)    (C)                (D)             (E)                    .U-28     (A)    (B)     (C)                (D)             (E)                .U-29           (A)           (B)           (C)                (D)             (E)                 .U-30              (A)          (B)           (C)                (D)             (E) 12/MAV/M-2024-02/S-302-E 8 9 12/MAV/M-2024-02/S-302-E [P.T.O. (Bengali Language) B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 9,
+    "question": "òò“þóó ™ç!léŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "xöì‰y£ì ô)™Å”Ä ô¥y²Ìy” ™ç!l"
+      },
+      {
+        "id": "B",
+        "text": "xöì‰y£ì •þy¡îÄ ô¥y²Ìy” ™ç!l"
+      },
+      {
+        "id": "C",
+        "text": "ö‰y£ì ô)™Å”Ä xÒ²Ìy” ™ç!l"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 10,
+    "question": "¡yD¡ > lyD¡ééŸŸŸé~¥z ™ç!lþ›!îûî•þÅöìlîû ˜,ÜTyhsý!ØþéŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "¤ô#èþîöìlîû xhsýˆÅ•þ"
+      },
+      {
+        "id": "B",
+        "text": "!î£ìô#èþîöìlîû xhsýˆÅ•þ"
+      },
+      {
+        "id": "C",
+        "text": "î”Å!î†þyöìîûîû xhsýˆÅ•þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 11,
+    "question": "òò†þyˆ?óó ¢·!ØþéŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "xyîû!î ¢·"
+      },
+      {
+        "id": "B",
+        "text": "æþyîû!¤ ¢·"
+      },
+      {
+        "id": "C",
+        "text": "!‹þly ¢·"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 12,
+    "question": "òòþ›îûóó G òòþ›îûóó ¢· ˜%!Øþöì†þ ¤!¦þîm* †þîûöì¡ ¥ëûééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "þ›îûþ›îû"
+      },
+      {
+        "id": "B",
+        "text": "þ›îûyþ›îû"
+      },
+      {
+        "id": "C",
+        "text": "þ›îûß›îû"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 13,
+    "question": "òòxl%_« †þ•þÅyóó î¡y ¥ëûééŸŸŸ",
+    "options": [
+      {
+        "id": "A",
+        "text": "†þ•,þÅîyöì‹þÄîû †þ•þÅyöì†þ"
+      },
+      {
+        "id": "B",
+        "text": "†þôÅîyöì‹þÄîû †þ•þÅyöì†þ"
+      },
+      {
+        "id": "C",
+        "text": "èþyîîyöì‹þÄîû †þ•þÅyöì†þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 14,
+    "question": "òò•%þ!ôóó ¤îÅlyô!Øþîû ’þzêþ›!_ééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "òò•þ˜óó ¢· öíöì†þ"
+      },
+      {
+        "id": "B",
+        "text": "òò•þ˜yóó ¢· öíöì†þ"
+      },
+      {
+        "id": "C",
+        "text": "òòë%@Â˜óó ¢· öíöì†þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 15,
+    "question": "òò†þô¡y†þyhsý ¤yîûy!˜l þ›’þüöìSéóóéŸŸŸé~‡yöìl òòþ›’þüöìSéóó !e«ëûyþ›˜!ØþééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "x†þôÅ†þ !e«ëûy"
+      },
+      {
+        "id": "B",
+        "text": "¤†þôÅ†þ !e«ëûy"
+      },
+      {
+        "id": "C",
+        "text": "!m†þôÅ†þ !e«ëûy"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 16,
+    "question": "99 ¤‚‡Äy!Øþîû þ›)îû”éŸéîy‹þ†þ ¢·éŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "|l¢•þ•þô"
+      },
+      {
+        "id": "B",
+        "text": "!lîûylîç¥z"
+      },
+      {
+        "id": "C",
+        "text": "lîlî!•þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 17,
+    "question": "òòxy†þy¢îy”#óó ¤ôy¤îm* þ›˜!Øþîû îÄy¤îy†þÄ ¥öìîéŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "xy†þyöì¢îû îy”#"
+      },
+      {
+        "id": "B",
+        "text": "xy†þy¢ ôyîûæþ•þ ö²Ì!îû•þ îy”#"
+      },
+      {
+        "id": "C",
+        "text": "xy†þy¢ îû*þ› îy”#"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû 10 12/MAV/M-2024-02/S-302-E B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 18,
+    "question": "òòl# + ”†þéŸélyëû†þóóéŸŸŸé~‡yöìl ²Ì•þÄëûîm* òòlyëû†þóó ¢·!Øþöì•þ ßºöìîûîû öëéŸéþ›!îûî•þÅl ‰öìØþöìSé •þyöì†þ î¡y ëyëûéŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "=”"
+      },
+      {
+        "id": "B",
+        "text": "î,!m*"
+      },
+      {
+        "id": "C",
+        "text": "¤Á±¤yîû”"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû òò@ýÌ#†þ ö˜öì¢îû ~†þ x‚öì¢îû lyô öíöì¤¡#Ð ö¤¥z îûyöì?Äîû ë%îîûy? !þ›¡%Äöì¤îû öíØþ#¤ä lyÁ¬# ¤yˆîû¤½þîy ~†þ ö˜î#îû ¤!¥•þ þ›!îû”ëû ¥ëûÐ öíØþ#¤ä ö˜îöìëy!l– ¤%•þîûy‚ •þy¥yîû !îîy¥éŸé¤ôyöìîûyöì¥ ¤†þ¡ ö˜îéŸéö˜î# !lô!sf•þ ¥¥zëûy îûy?!löì†þ•þöìl xy!îè)þÅ•þ ¥öìëûl !îîy˜öì˜î# lyÁ¬# †þ¡¥†þy!îû”# ~†þ ö˜î†þlÄy xy¥*•þ ly ¥Gëûyöì•þ ô¥yöìîûy£ìyöìîöì¢ !îîy˜ ’þzþ›!ßi•þ †þ!îûîyîû ôylöì¤ ~†þ xq$•þ ö†þï¢¡ †þöìîûlÐ xíÅyê ~†þØþ# ßº”Åæþöì¡– öë îû*öìþ› ¤öìîîÅyê†,þÜTy– ö¤¥z ~ æþöì¡îû ²Ì†,þ•þ x!™†þy!îû”#– ~¥z †þöìëû†þØþy †þíy !¡!‡ëûy ö˜î#˜öì¡îû ô™Äßiöì¡ !löìÇþþ› †þöìîûlÐ ¥#îû# ?%Äöì¤îû þ›b# xíÅyê ö˜î†)þöì¡îû ¥zwyl# ¢‹þ#— xyöìíl#– Kþylöì˜î# xíÅyê ¤îûßº•þ# ~î‚ xöì²Ìy˜#•þ#– ö²Ìôöì˜î# xíÅyê îû!•þ– ~¥z !•þl?öìlîû ôöì™Ä ~¥z æþöì¡yþ›¡öìÇþ !î£ìô !îîy˜ ‰!Øþëûy ’þz!‘þöì¡ •þy¥yîûy {’þy þ›îÅöì•þ îûy?lr˜l ßñr˜öìîûîû !l†þØþ ’þzþ›!ßi•þ ¥¥zöì¡l– ~î‚ •þê¤!§¬™yöìl xyöì˜Äyþ›yhsý ¤ôhßì î,_yhsý î”Ål †þ!îûëûy •þ„y¥yöì†þ¥z ~ !î£ìöìëû !löì”Å•þy !ßiîû †þ!îûöì¡lÐó B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 19,
+    "question": "!îîy¥ ’þzþ›¡öìÇþ ö˜îöì˜î#îûy ’þzþ›!ßi•þ ¥léŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "ö˜î¤èþyëû"
+      },
+      {
+        "id": "B",
+        "text": "öíöì¤¡yîû ˆ,öì¥"
+      },
+      {
+        "id": "C",
+        "text": "!þ›¡%Äöì¤îû ˆ,öì¥"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 20,
+    "question": "ö˜î#öì˜îû ôöì™Ä ö¤ylyîû æþ¡ !löìÇþþ› †þöìîûl",
+    "options": [
+      {
+        "id": "A",
+        "text": "~†þ †þ¡¥†þy!îû”# ˜ylî#"
+      },
+      {
+        "id": "B",
+        "text": "~†þ ö˜î†þlÄy"
+      },
+      {
+        "id": "C",
+        "text": "öíöì¤¡#"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 21,
+    "question": "ö˜î†%þöì¡îû ¥zw ¥öì¡lééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "?%Ä¤"
+      },
+      {
+        "id": "B",
+        "text": "xyöìíl"
+      },
+      {
+        "id": "C",
+        "text": "¥#îû#"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 22,
+    "question": "ö¤ylyîû æþ¡ !löìëû !îîy˜ öî„öì™!Sé¡",
+    "options": [
+      {
+        "id": "A",
+        "text": "¢‹þ#éŸéîû!•þéŸé¤îûßº•þ#îû ôöì™Ä"
+      },
+      {
+        "id": "B",
+        "text": "öíØþy¤!îîy˜öì˜î#éŸé¥#îû#îû ôöì™Ä"
+      },
+      {
+        "id": "C",
+        "text": "¥#îû#éŸéxöì²Ìy˜#•þ#éŸéöíØþ#öì¤îû ôöì™Ä"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 23,
+    "question": "ö×Ûþ ¤%r˜îû# !l”Åöìëûîû èþyîû þ›öì’þü!Sé¡éŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "ßñr˜öìîûîû ’þzþ›îû"
+      },
+      {
+        "id": "B",
+        "text": "!þ›¡%Äöì¤îû ’þzþ›îû"
+      },
+      {
+        "id": "C",
+        "text": "{’þyîû îûy?yîû ’þzþ›îû"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 24,
+    "question": "òò!îîy¥éŸé¤ôy¥yîûóó þ›˜!ØþééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "ë%_«þ›˜"
+      },
+      {
+        "id": "B",
+        "text": "¤ôhßìþ›˜"
+      },
+      {
+        "id": "C",
+        "text": "öëï!ˆ†þ þ›˜"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû 11 12/MAV/M-2024-02/S-302-E [P.T.O. òlyîû# xyîû þ›%îû&£ì !ô!¡öìëû öëéŸé¤yô!@ýÌ†þ ôyl%£ì– •þyîû¥z ™ôÅöì†þ îûî#wlyí îöì¡öìSél òòôyl%öì£ìîû ™ôÅóóÐ xí‹þ !‘þ†þ ~îû ’þz¡öìØþy †þíy¥z îà ë%ˆ ™öìîû xy®îyöì†þÄîû ôëÅy˜y öþ›öìëû ~öì¤öìSé : !‹þ_¢!_«îû ¤Á›˜ þ›%îû&öì£ìîû– xyîû lyîû# ²Ìy”¢!_«îû ²Ì!•þôyÐ ÷?î²Ì†,þ!•þîû ¢y¤l ¡A‰l †þöìîû þ›%îû&öì£ìîû ²Ìô%_« !‹þ_¢!_« öëéŸé˜%?Åëû •þþ›¤Äy Öîû& †þöìîû– •þyöì†þ îyöìîû îyöìîû þ›îû&Ä˜hßì G þ›îûyè)þ•þ †þöìîû ²Ì†,þ!•þîû ˜)•þ# ²Ìy”¢!_«îû*þ›y lyîû#Ð þ›%îûyöì” þ›%lîûyî,_ •þöìþ›yèþBþyéŸé†þy!¥l#îû ô)öì¡ ~¥z !îöì¢£ì ˜,!ÜTèþ!D¥z !e«ëûy¢#¡Ð !†þv þ›%îû&öì£ìîû ¤öìD !‹þ_¢!_«îû xyîû lyîû#îû ¤öìD ²Ìy”¢!_«îû ~¥z ¤ô#†þîû”!Øþöì†þ îûî#wlyí ö†þyöìly!˜l¥z ‹)þ’þüyhsýèþyöìî ßº#†þyîû †þöìîûl !lÐ ôylî¤_yîû !èþ§¬ !èþ§¬ ’þzþ›†þîû”öì†þ ‹þ!îûey!ëû•þ †þöìîû ë‡l ÷•þ!îû ¥¡ þ›yMéþöìèþï!•þ†þ ¤èþy •þ‡l lyîû#‹þ!îûe ˜#!®îû ôöì™Ä¥z ¢y!”•þ ¥öìëû ’þz‘þ¡ !‹þ_¢!_«îû ²ÌyíÅ†þÄÐ ¤î%?þ›e þ›îÅ öíöì†þ Öîû& †þöìîû îûî#wlyöìíîû x!Bþ•þ lyîû#‹þ!îûöìe !‹þ_¢!_«îû ~¥z ²Ìyí†ÅþÄ¥z ’þz_öìîûy_îû î,!m* öþ›öìëûöìSéÐ ‹þ•%þîûDéŸéîû ˜y!ôl#– !•þl ¤D#éŸéîû !îèþy G x!‹þîûy ~î‚ òòî˜lyôóó ˆöìÒîû ö¤ï˜y!ôl# lyöìôîû !˜öì†þ ~¥z ²Ì¤öìD ˜,!ÜT ö˜Gëûy ²Ìöìëûy?lÐ x!‹þîûy lyöìôîû •þyêþ›ëÅ îÄy‡Äy †þöìîû lî#lôy™î îöì¡öìSé– òëyîû ²Ì†þy¢ ¥öì•þ !î¡Áº ¥¡ ly– !î˜%Äöì•þîû ôöì•þyÐó ˜y!ôl#– !îèþy xyîû ö¤ï˜y!ôl#îû lyôîû*öìþ›G ö¤¥z ‹þ!†þ•þéŸéxyöì¡yîû ˜#!® !îFS%é!îû•þÐ lyîû#!‹þöì_îû ~¥z xyöì¡y îûî#wlyöìíîû †þ!îèþy£ìyëû òòôy™%ëÅóó ~¥z òòôy™%ëÅóóöì†þ îûî#wlyí òò¡y!¡•þÄóó öíöì†þ þ›,í†þ †þöìîû !löìëûöìSélÐó B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 25,
+    "question": "òòôyl%öì£ìîû ™ôÅóó î¡öì•þ îûî#wlyí öîyöìVþléŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "lyîû#éŸéþ›%îû&öì£ìîû !ô!¡•þ xy™Äy!d†þ ¤y™ly"
+      },
+      {
+        "id": "B",
+        "text": "þ›%îû&öì£ìîû !‹þ_¢!_« G ²Ìy”¢!_«öì†þ"
+      },
+      {
+        "id": "C",
+        "text": "lyîû#éŸéþ›%îû&öì£ìîû !ô!¡•þ ¤yô!@ýÌ†þ ÷î!¢ÜTÄöì†þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 26,
+    "question": "þ›%îûyöì” •þöìþ›yèþDéŸé†þy!¥!lîû ô)öì¡ öëéŸé˜,!ÜTèþ!D !e«ëûy¢#¡ééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "þ›%îû&öì£ìîû !‹þ_¢!_«öì†þ lyîû# þ›îûy!?•þ †þîûöìSé"
+      },
+      {
+        "id": "B",
+        "text": "þ›%îû&öì£ìîû ²Ìy”¢!_«öì†þ lyîû# þ›îûy!?•þ †þîûöìSé"
+      },
+      {
+        "id": "C",
+        "text": "lyîû#îû !‹þ_¢!_« !?öì•þ ëyöìFSé"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 27,
+    "question": "òò!‹þ_¢!_«óó þ›˜!Øþîû îÄy¤îy†þÄéŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "!‹þöì_îû ¢!_«"
+      },
+      {
+        "id": "B",
+        "text": "!‹þ_ îû*þ› ¢!_«"
+      },
+      {
+        "id": "C",
+        "text": "ëy !‹þ_ •þy¥z ¢!_«"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 28,
+    "question": "lî#lôy™î ‹þ!îûe!Øþ öëéŸéîû‹þlyëû xyöìSééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "’þzþ›lÄyöì¤"
+      },
+      {
+        "id": "B",
+        "text": "²Ìîöì¦þ"
+      },
+      {
+        "id": "C",
+        "text": "öSéyöìØþy ˆöìÒ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 29,
+    "question": "îûî#wlyöìíîû †þ!îèþy£ìyëû òòôy™%ëÅóó î¡öì•þ öîyVþyöìly ¥öìëûöìSééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "lyîû#îû ²Ìy”¢!_«öì†þ"
+      },
+      {
+        "id": "B",
+        "text": "þ›%îû&öì£ìîû !‹þ_¢!_«öì†þ"
+      },
+      {
+        "id": "C",
+        "text": "lyîû#îû !‹þ_¢!_« G ²Ìy”¢!_«öì†þ"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû B-"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 30,
+    "question": "òò¡y!¡•þÄóó ¢·!Øþîû î%Äêþ›!_ !lÁ¬îû*þ›ééŸŸŸé",
+    "options": [
+      {
+        "id": "A",
+        "text": "¡!¡•þ + £ìøþÄ"
+      },
+      {
+        "id": "B",
+        "text": "¡!¡•þ + ëê"
+      },
+      {
+        "id": "C",
+        "text": "¡y!¡•þä + ë"
+      },
+      {
+        "id": "D",
+        "text": "’þzþ›öìîûy_«=!¡îû ôöì™Ä ~öì†þîû öíöì†þ x!™†þ"
+      },
+      {
+        "id": "E",
+        "text": "’þzþ›öìîûîû ö†þyöìly!Øþ¥z lëû 12 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 31,
+    "question": "A player makes 7 complete revolutions of a circular path to complete a race of 2200 metres. The radius of the circular path is : 22 7        ",
+    "options": [
+      {
+        "id": "A",
+        "text": "42 metres"
+      },
+      {
+        "id": "B",
+        "text": "45 metres"
+      },
+      {
+        "id": "C",
+        "text": "50 metres"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 32,
+    "question": "If the capacity of a cylindrical tank is 1848 m 3 and the diameter of its base is 14 m, the depth of the tank is : 22 7        ",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 m"
+      },
+      {
+        "id": "B",
+        "text": "12 m"
+      },
+      {
+        "id": "C",
+        "text": "16 m"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 33,
+    "question": "If 1 8 th of a number is 30, what will be 62% of that number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "181.3"
+      },
+      {
+        "id": "B",
+        "text": "178.24"
+      },
+      {
+        "id": "C",
+        "text": "148.8"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 34,
+    "question": "The salary of an officer is increased by 25%. By what percent should the new salary be decreased to restore the original salary?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "22.5"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 35,
+    "question": "By what number should 3 2 3         be divided so that the quotient is 2 4 9        ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 3"
+      },
+      {
+        "id": "B",
+        "text": "2 3 "
+      },
+      {
+        "id": "C",
+        "text": "3 2 "
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 36,
+    "question": "If 1 5 x x   , what is the value of 4 4 1 x x  ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "525"
+      },
+      {
+        "id": "B",
+        "text": "527"
+      },
+      {
+        "id": "C",
+        "text": "529"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 37,
+    "question": "A bag contains 5-rupee, 2-rupee and 1-rupee coins in the ratio 2 : 3 : 4. The total value of all the coins is N 2,000. How many coins of 2-rupee are there in the bag?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200"
+      },
+      {
+        "id": "B",
+        "text": "250"
+      },
+      {
+        "id": "C",
+        "text": "400"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 38,
+    "question": "The interior angle of a regular polygon exceeds its exterior angle by 108 º . How many sides does the polygon have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above PART - II (GENERAL STUDIES) 13 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 31,
+    "question": "EH$ {Ibm‹S>r {H$gr d¥ÎmmH$ma nW Ho$ 7 nyao M¸$a bJmH$a 2200 ‘rQ>a H$s Xm¡‹S> nyar H$aVm h¡& d¥ÎmmH$ma nW H$s {ÌÁ¶m h¡ : 22 7        ",
+    "options": [
+      {
+        "id": "A",
+        "text": "42 ‘rQ>a"
+      },
+      {
+        "id": "B",
+        "text": "45 ‘rQ>a"
+      },
+      {
+        "id": "C",
+        "text": "50 ‘rQ>a"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 32,
+    "question": "¶{X {H$gr ~obZmH$ma Q>¢H$ H$s Ym[aVm 1848 ‘r 3 Am¡a CgHo$ AmYma H$m ì¶mg 14 ‘r hmo, Vmo Q>¢H$ H$s JhamB© hmoJr : 22 7        ",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 ‘r"
+      },
+      {
+        "id": "B",
+        "text": "12 ‘r"
+      },
+      {
+        "id": "C",
+        "text": "16 ‘r"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 33,
+    "question": "¶{X {H$gr g§»¶m H$m AmR>dm± ^mJ 30 h¡, Vmo Cg g§»¶m H$m 62% {H$VZm hmoJm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "181.3"
+      },
+      {
+        "id": "B",
+        "text": "178.24"
+      },
+      {
+        "id": "C",
+        "text": "148.8"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 34,
+    "question": "EH$ A{YH$mar H$m doVZ 25% ~‹T>m {X¶m OmVm h¡& Z¶o doVZ H$mo {H$VZo à{VeV KQ>m {X¶m Om¶ {H$ dh nwamZo doVZ na Am Om¶?>>",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "22.5"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht PART - II (GENERAL STUDIES)"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 35,
+    "question": "3 2 3         H$mo {H$g g§»¶m go {d^m{OV {H$¶m Om¶ {H$ ^mJ’$b 2 4 9        hmo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 3"
+      },
+      {
+        "id": "B",
+        "text": "2 3 "
+      },
+      {
+        "id": "C",
+        "text": "3 2 "
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 36,
+    "question": "¶{X 1 5 x x   , Vmo 4 4 1 x x  H$m ³¶m ‘mZ h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "525"
+      },
+      {
+        "id": "B",
+        "text": "527"
+      },
+      {
+        "id": "C",
+        "text": "529"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 37,
+    "question": "EH$ W¡bo ‘| 5- ê$n¶o , 2- ê$n¶o VWm 1- ê$n¶o Ho$ {g¸o$ 2 : 3 : 4 Ho$ AZwnmV ‘| h¢& g^r {g¸$m| H$m Hw$b ‘yë¶ N 2000 h¡& W¡bo ‘| 2- ê$n¶o Ho$ {H$VZo {g¸o$ h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200"
+      },
+      {
+        "id": "B",
+        "text": "250"
+      },
+      {
+        "id": "C",
+        "text": "400"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 38,
+    "question": "EH$ g‘~hþ^wO H$m AÝV: H$moU CgHo$ ~{hîH$moU go 108 º A{YH$ h¡& Bg ~hþ^wO ‘| {H$VZr ^wOm¶| h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 14 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 39,
+    "question": "Zinc Oxide is normally used in the manufacture of",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paints"
+      },
+      {
+        "id": "B",
+        "text": "Explosives"
+      },
+      {
+        "id": "C",
+        "text": "Solvents"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 40,
+    "question": "Lenz’s law is derived from the law of conservation of",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnetism"
+      },
+      {
+        "id": "B",
+        "text": "Momentum"
+      },
+      {
+        "id": "C",
+        "text": "Charge"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 41,
+    "question": "Glycogen stored in liver and muscles of human body is in form of",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monosaccharide"
+      },
+      {
+        "id": "B",
+        "text": "Polysaccharide"
+      },
+      {
+        "id": "C",
+        "text": "Protein"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 42,
+    "question": "In which of the following blood has defective haemoglobin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Haematoma"
+      },
+      {
+        "id": "B",
+        "text": "Sickle cell Anaemia"
+      },
+      {
+        "id": "C",
+        "text": "Haemophilia"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 43,
+    "question": "In which of the following medicine production, ethyl alcohol can be used?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antiseptic"
+      },
+      {
+        "id": "B",
+        "text": "Antipyretic"
+      },
+      {
+        "id": "C",
+        "text": "Anti-allergic"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 44,
+    "question": "Velocity of sound at 15 º C and 380mm pressure is 340m. sec –1 . If the pressure is doubled without change of temperature, the velocity of sound would become",
+    "options": [
+      {
+        "id": "A",
+        "text": "680m. sec –1"
+      },
+      {
+        "id": "B",
+        "text": "170m. sec –1"
+      },
+      {
+        "id": "C",
+        "text": "190m. sec"
+      },
+      {
+        "id": "D",
+        "text": "340m. sec –1"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 45,
+    "question": "If a bacterium cell divides in every 15 min, how many bacteria will be formed in 2 hours.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "64"
+      },
+      {
+        "id": "D",
+        "text": "256"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 46,
+    "question": "Plants and animal cell differ in which of the following structure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzymes"
+      },
+      {
+        "id": "B",
+        "text": "Nuclei"
+      },
+      {
+        "id": "C",
+        "text": "Cell wall"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 47,
+    "question": "According to the recent report of forbes, which is the strongest currency in the world?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Omani Rial"
+      },
+      {
+        "id": "B",
+        "text": "Kuwaiti Dinar"
+      },
+      {
+        "id": "C",
+        "text": "Bahrain Dinar"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 48,
+    "question": "In which city of Maharashtra did PM Narendra Modi launch 8 AMRUT projects?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kollam"
+      },
+      {
+        "id": "B",
+        "text": "Baroda"
+      },
+      {
+        "id": "C",
+        "text": "Solapur"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above 15 12/MAV/M-2024-02/S-302-E [P.T.O. 39 qOH$ Am³gmBS> H$m gmYmaU ê$n go {H$g Ho$ CËnmXZ ‘| Cn¶moJ hmoVm h¡ (A) noÝQ> (B) {dñ’$moQ>H$m| (C) KmobH$m| (D) Cn¶w©º ‘o§ go EH$ go A{YH$ (E) Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 40,
+    "question": "boÝμO Ho$ {Z¶‘ H$s ì¶wËn{Îm Ho$ {bE {ZåZ ‘| {H$gHo$ g§ajU {Z¶‘ H$m Cn¶moJ hmoVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mwå~H$Ëd"
+      },
+      {
+        "id": "B",
+        "text": "g§doJ"
+      },
+      {
+        "id": "C",
+        "text": "Amdoe"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º ‘o§ go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 41,
+    "question": "‘mZd eara Ho$ ¶H¥$V Ed§ ‘m±g no{e¶mo| ‘| g§Ym[aV ½bmBH$moμOoZ H$m ê$n hmoVm h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘moZmog¡H$mamBS>"
+      },
+      {
+        "id": "B",
+        "text": "nm°brg¡H$mamBS>"
+      },
+      {
+        "id": "C",
+        "text": "àmoQ>rZ"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º ‘o§ go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 42,
+    "question": "aº$ ‘| Ìw{Q>nyU© ho‘mo½bmo{~Z {ZåZ ‘| {H$g‘| {XIVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "aº$Jwë‘"
+      },
+      {
+        "id": "B",
+        "text": "XmÌ H$mo{eH$m Aaº$Vm"
+      },
+      {
+        "id": "C",
+        "text": "ho‘mo’$s{b¶m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º ‘o§ go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 43,
+    "question": "{ZåZ ‘| {H$g àH$ma H$s XdmB© CËnmXZ ‘| BWmBb AëH$mohb H$m Cn¶moJ {H$¶m Om gH$Vm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "EÝQ>r gopßQ>H$"
+      },
+      {
+        "id": "B",
+        "text": "EÝQ>r nmBao{Q>H$"
+      },
+      {
+        "id": "C",
+        "text": "EÝQ>r-Eb{O©H$"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º ‘o§ go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 44,
+    "question": "15 º C Vmn Ed§ 380mm Xm~ na Üd{Z doJ 340 ‘r.go. –1 h¡& ¶{X Vmn H$mo An[ad{V©V aIVo hþE Xm~ H$mo Xmo JwZm H$a {X¶m Om¶ V~ Üd{Z doJ H$m ‘mZ hmoJm",
+    "options": [
+      {
+        "id": "A",
+        "text": "680 ‘r.go –1"
+      },
+      {
+        "id": "B",
+        "text": "170 ‘r.go –1"
+      },
+      {
+        "id": "C",
+        "text": "190 ‘r.goo –1"
+      },
+      {
+        "id": "D",
+        "text": "340 ‘r.goo –1"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 45,
+    "question": "¶{X EH$ OrdmpÊdH$ H$mo{eH$m àË¶oH$ 15 {‘ZQ> ‘| {d^º$ hmoVr h¡ V~ 2 K§Q>o ‘| {H$VZo OrdmpÊdH$ {Z{‘©V hm|Jo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "64"
+      },
+      {
+        "id": "D",
+        "text": "256"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 46,
+    "question": "nm¡Ym| Ed§ new H$mo{eH$mAm| ‘| AÝVa {ZåZ ‘| {H$g g§aMZm go ñnï> hmoVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E§OmB‘"
+      },
+      {
+        "id": "B",
+        "text": "Zm{^H$"
+      },
+      {
+        "id": "C",
+        "text": "H$mo{eH$m {^{Îm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 47,
+    "question": "’$moãg© H$m hm{b¶m [anmooQ>© Ho$ AZwgma Xþ{Z¶m± H$s g~go ‘O~yV ‘wÐm H$m¡Z-gr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amo‘mZr [a¶mb"
+      },
+      {
+        "id": "B",
+        "text": "Hw$d¡Vr XrZma"
+      },
+      {
+        "id": "C",
+        "text": "~harZ XrZma"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 48,
+    "question": "nr.E‘. ZaoÝÐ ‘moXr Zo 8 A‘¥V n[a¶moOZmAm| H$s ewê$AmV ‘hmamï´> Ho$ {H$g eha go H$s?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$mo„‘"
+      },
+      {
+        "id": "B",
+        "text": "~‹S>m¡Xm"
+      },
+      {
+        "id": "C",
+        "text": "gmobmnwa"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 16 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 49,
+    "question": "IIT Madras has tied up with whom to launch e Mobility Simulation Lab?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Altair"
+      },
+      {
+        "id": "B",
+        "text": "Starlink"
+      },
+      {
+        "id": "C",
+        "text": "Farber Speciality Lab"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 50,
+    "question": "Who won the Best Actor Award at the Academy Awards 2024 (Oscars)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dwayne Johnson"
+      },
+      {
+        "id": "B",
+        "text": "Cillian Murphy"
+      },
+      {
+        "id": "C",
+        "text": "Tom Cruise"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 51,
+    "question": "Who was recently selected as the ICC Women’s T20i Cricketer of the year 2023?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Smriti Mandhana (India)"
+      },
+      {
+        "id": "B",
+        "text": "Nat Seiver - Brunt (England)"
+      },
+      {
+        "id": "C",
+        "text": "Hayley Mathews (West Indies)"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 52,
+    "question": "Who was Crowned Miss World 2024 in Mumbai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Miss Czech Kristina Pishkova"
+      },
+      {
+        "id": "B",
+        "text": "Miss India Sini Shetty"
+      },
+      {
+        "id": "C",
+        "text": "Miss Lebanon Yasmina Zaytoun"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 53,
+    "question": "In which country will the clean Energy Investor Forum be organised by IPEF?",
+    "options": [
+      {
+        "id": "A",
+        "text": "France"
+      },
+      {
+        "id": "B",
+        "text": "Singapore"
+      },
+      {
+        "id": "C",
+        "text": "Spain"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 54,
+    "question": "India has acquired the right to operate the foreign Sittwe Port, it is in which country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sri Lanka"
+      },
+      {
+        "id": "B",
+        "text": "Bangladesh"
+      },
+      {
+        "id": "C",
+        "text": "Myanmar"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 55,
+    "question": "Mangrove forest of Ganga Delta is called",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sunderban"
+      },
+      {
+        "id": "B",
+        "text": "Sundergarh"
+      },
+      {
+        "id": "C",
+        "text": "Surendranagar"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 56,
+    "question": "Which river is frequently changing its course of flow in Bihar",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gandak"
+      },
+      {
+        "id": "B",
+        "text": "Kosi"
+      },
+      {
+        "id": "C",
+        "text": "Punpun"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 57,
+    "question": "Plant roots gets water from soil as -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bound water"
+      },
+      {
+        "id": "B",
+        "text": "Hygroscopic water"
+      },
+      {
+        "id": "C",
+        "text": "Capillary water"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 58,
+    "question": "How much equatorial diameter is larger than polar diameter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36 km"
+      },
+      {
+        "id": "B",
+        "text": "43 km"
+      },
+      {
+        "id": "C",
+        "text": "49 km"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 59,
+    "question": "The Indian Standard Time (IST) is taken at which longitude -",
+    "options": [
+      {
+        "id": "A",
+        "text": "82.5 º E"
+      },
+      {
+        "id": "B",
+        "text": "78.5 º E"
+      },
+      {
+        "id": "C",
+        "text": "87.5 º E"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above 17 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 49,
+    "question": "AmB©AmB©Q>r ‘Ðmg Zo B© ‘mo{~{bQ>r {g‘wboeZ b¡~ bmÝM H$aZo Ho$ {bE {H$gHo$ gmW H$ama {H$¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AëQ>o¶a"
+      },
+      {
+        "id": "B",
+        "text": "ñQ>maqbH$"
+      },
+      {
+        "id": "C",
+        "text": "’$m~©a ñnoe{bQ>r b¡~"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 50,
+    "question": "AH$mX‘r nwañH$ma 2024 (Am°ñH$g©) ‘| gd©loð> A{^ZoVm H$m nwañH$ma {H$gZo OrVm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S>doZ Om°ZgZ"
+      },
+      {
+        "id": "B",
+        "text": "{g{b¶Z ‘’$s©"
+      },
+      {
+        "id": "C",
+        "text": "Q>m‘H«y$O"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 51,
+    "question": "{H$go hmb hr ‘| df© 2023 Ho$ {bE ICC ‘{hbm T20i {H«$Ho$Q>a Am’$ X B©¶a MwZm J¶m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ñ‘¥{V ‘§YmZm (^maV)"
+      },
+      {
+        "id": "B",
+        "text": "ZoQ> gmBda-~§«Q> (B§½b¡ÊS>)"
+      },
+      {
+        "id": "C",
+        "text": "hobo ‘¡Ï¶yO (doñQ>B§S>rO)"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 52,
+    "question": "‘wå~B© ‘| gånÞ {‘g dëS>© 2024 H$m VmO {H$gHo$ {ga na gOm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "{‘go MoH$ {H«$ñQ>rZm {ngH$modm"
+      },
+      {
+        "id": "B",
+        "text": "{‘g BpÝS>¶m {gZr goÅ>r"
+      },
+      {
+        "id": "C",
+        "text": "{‘g bo~ZmZ ¶mñ‘rZm Oo¶Q>mCZ"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 53,
+    "question": "AmB© nr B© E’$ Ûmam ³brZ EZOu BÝdoñQ>a ’$moa‘ H$m Am¶moOZ {H$g Xoe ‘| {H$¶m Om¶oJm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "’«$m§g ‘|"
+      },
+      {
+        "id": "B",
+        "text": "qgJmnwa ‘|"
+      },
+      {
+        "id": "C",
+        "text": "ñnoZ ‘|"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 54,
+    "question": "^maV Zo {dXoer {gQ>do ~§XaJmh H$mo g§Mm{bV H$aZo H$m A{YH$ma hm{gb {H$¶m h¡, ¶h {H$g Xoe ‘| h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "lrb§H$m ‘|"
+      },
+      {
+        "id": "B",
+        "text": "~m§½ëmmXoe ‘|"
+      },
+      {
+        "id": "C",
+        "text": "å¶m§‘ma ‘|"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 55,
+    "question": "J§Jm S>oëQ>m Ho$ gXm~mha dZ joÌ H$mo ³¶m H$hVo h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gwÝXadZ"
+      },
+      {
+        "id": "B",
+        "text": "gwÝXaJ‹T>>"
+      },
+      {
+        "id": "C",
+        "text": "gwaoÝÐZJa"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 56,
+    "question": "{~hma H$s H$m¡Z-gr ZXr AnZm ‘mJ© n[ad{V©V H$aZo Ho$ {bE OmZr OmVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "JÊS>H$"
+      },
+      {
+        "id": "B",
+        "text": "H$mogr"
+      },
+      {
+        "id": "C",
+        "text": "nwZnwZ"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 57,
+    "question": "d¥j H$s O‹S>mo H$mo ‘¥Xm go nmZr H¡$go {‘bVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "~±Ym Ob"
+      },
+      {
+        "id": "B",
+        "text": "AmÐ©Vm Ob"
+      },
+      {
+        "id": "C",
+        "text": "Ho${eH$m Ob"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 58,
+    "question": "{dfwd¥Îmr¶ ì¶mg Yw«dr¶ ì¶mg go {H$VZm A{YH$ h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36 {H$‘r."
+      },
+      {
+        "id": "B",
+        "text": "43 {H$‘r."
+      },
+      {
+        "id": "C",
+        "text": "49 {H$‘r."
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 59,
+    "question": "{H$g aoIm§e na ^maVr¶ ‘mZH$ g‘¶ AnZm¶m OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "82.5 º nyd© (East)"
+      },
+      {
+        "id": "B",
+        "text": "78.5 º nyd©"
+      },
+      {
+        "id": "C",
+        "text": "87.5 º nyd©"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 18 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 60,
+    "question": "In India ‘Green revolution’ is known to credit to whom?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dr. V. Kurian"
+      },
+      {
+        "id": "B",
+        "text": "Dr. M.S. Swaminathan"
+      },
+      {
+        "id": "C",
+        "text": "Sri. S.L. Bahuguna"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 61,
+    "question": "Highest Mountain peak of India is known as",
+    "options": [
+      {
+        "id": "A",
+        "text": "Everest"
+      },
+      {
+        "id": "B",
+        "text": "Kanchenjunga"
+      },
+      {
+        "id": "C",
+        "text": "K-2"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 62,
+    "question": "Indian continent was earlier part of",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gondwanaland"
+      },
+      {
+        "id": "B",
+        "text": "Tethys"
+      },
+      {
+        "id": "C",
+        "text": "Pangea"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 63,
+    "question": "Who led the Revolt of 1857 in Bihar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tatya Tope"
+      },
+      {
+        "id": "B",
+        "text": "Kunwar Singh"
+      },
+      {
+        "id": "C",
+        "text": "Nana Saheb"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 64,
+    "question": "The spiritual side of nationalism was voiced by",
+    "options": [
+      {
+        "id": "A",
+        "text": "Raja Ram Mohan Roy"
+      },
+      {
+        "id": "B",
+        "text": "Swami Shraddhanand"
+      },
+      {
+        "id": "C",
+        "text": "Swami Vivekananda"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 65,
+    "question": "Which newspaper propagated strong nationalist views during India’s freedom struggle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pioneer"
+      },
+      {
+        "id": "B",
+        "text": "Amrit Bazar Patrika"
+      },
+      {
+        "id": "C",
+        "text": "Statesman"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 66,
+    "question": "Who intervened in a dispute between the workers and mill owners of Ahmedabad in 1918?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vallabhbhai Patel"
+      },
+      {
+        "id": "B",
+        "text": "Mahatma Gandhi"
+      },
+      {
+        "id": "C",
+        "text": "Jamshedji Tata"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 67,
+    "question": "Name the left-wing leader of Bihar Provincial Kisan Sabha who popularised this in Bihar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Karyanand Sharma"
+      },
+      {
+        "id": "B",
+        "text": "Wadhwa Ram"
+      },
+      {
+        "id": "C",
+        "text": "P.C. Joshi"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 68,
+    "question": "Muddiman Committee was appointed to report on the working of the",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dyarchy"
+      },
+      {
+        "id": "B",
+        "text": "Communal representation"
+      },
+      {
+        "id": "C",
+        "text": "Federalism"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 69,
+    "question": "“He was a great unifier in India who taught us not only bare tolerance of others but the willing acceptance of them as our friends and comrades in common undertakings ” who said it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Subhash Chandra Bose"
+      },
+      {
+        "id": "B",
+        "text": "Balgangadhar Tilak"
+      },
+      {
+        "id": "C",
+        "text": "Rajendra Prasad"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 70,
+    "question": "Who proceeded to organise the Provisional Government of Free India outside the country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Raja Mahendra Pratap"
+      },
+      {
+        "id": "B",
+        "text": "Rash Behari Bose"
+      },
+      {
+        "id": "C",
+        "text": "Subhash Chandra Bose"
+      },
+      {
+        "id": "D",
+        "text": "More than one of the above"
+      },
+      {
+        "id": "E",
+        "text": "None of the above 19 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 60,
+    "question": "^maV ‘| \"h[aV H«$m§{V' H$m lo¶ {H$go OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S>m°. dr. Hw$[a¶Z"
+      },
+      {
+        "id": "B",
+        "text": "S>m°. E‘.Eg. ñdm‘rZmWZ"
+      },
+      {
+        "id": "C",
+        "text": "lr. gwÝXabmb ~hþJwUm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 61,
+    "question": "^maV H$s g~go D±$Mr nd©V loUr H$hVo h¢ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "EdaoñQ>"
+      },
+      {
+        "id": "B",
+        "text": "H§$MZO§Jm"
+      },
+      {
+        "id": "C",
+        "text": "Ho$- 2"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 62,
+    "question": "^maVr¶ Cn‘hmÛrn nyd© ‘| ‘ybV: EH$ ^mJ Wm -",
+    "options": [
+      {
+        "id": "A",
+        "text": "JmoÊS>dmZm b¡ÊS> H$m"
+      },
+      {
+        "id": "B",
+        "text": "Q>o{Wg H$m"
+      },
+      {
+        "id": "C",
+        "text": "n¢{O¶m H$m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 63,
+    "question": "{~hma ‘| 1857 H$s H«$mpÝV H$mo {H$gZo ZoV¥Ëd {X¶m Wm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "VmË¶m Q>mono"
+      },
+      {
+        "id": "B",
+        "text": "Hw§$da qgh"
+      },
+      {
+        "id": "C",
+        "text": "ZmZm gmho~"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 64,
+    "question": "amï´>dmX H$s AmÜ¶mpË‘H$ {Xem {H$g Ho$ Ûmam bmoH${à¶ ~Zm¶m J¶m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "amOm am‘‘mohZ am¶"
+      },
+      {
+        "id": "B",
+        "text": "ñdm‘r lÕmZÝX"
+      },
+      {
+        "id": "C",
+        "text": "ñdm‘r {ddoH$mZÝX"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 65,
+    "question": "^maV Ho$ ñdVÝÌVm AmÝXmobZ Ho$ Xm¡amZ JhZ amï´>dmXr {dMmam| H$mo {H$g g‘mMma-nÌ Ho$ Ûmam àMm[aV {H$¶m J¶m OmVm Wm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nm¶{Z¶a"
+      },
+      {
+        "id": "B",
+        "text": "A‘¥V ~mOma n{ÌH$m"
+      },
+      {
+        "id": "C",
+        "text": "ñQ>oQ>g‘¡Z"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 66,
+    "question": "1918 ‘| Ah‘Xm~mX Ho$ {‘b-‘m{bH$m| Am¡a ‘OXÿam| Ho$ ‘Ü¶ {ddmX ‘| {H$gZo hñVjon {H$¶m Wm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "d„^^mB© nQ>ob"
+      },
+      {
+        "id": "B",
+        "text": "‘hmË‘m Jm§Yr"
+      },
+      {
+        "id": "C",
+        "text": "O‘eoXOr Q>mQ>m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 67,
+    "question": "{~hma Ho$ {H$g dm‘-n§Wr ZoVm Zo {~hma àmÝVr¶ {H$gmZ g^m H$mo bmoH${à¶ ~Zm¶m Wm Zm‘ ~VmB©¶o :",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$¶m©ZÝX e‘m©"
+      },
+      {
+        "id": "B",
+        "text": "dYdm am‘"
+      },
+      {
+        "id": "C",
+        "text": "nr.gr.Omoer"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 68,
+    "question": "‘wX²Xr‘Z H$‘oQ>r H$mo {H$gH$s H$m¶©àUmbr na [anmoQ© XoZo Ho$ {bE {Z¶wº$ {H$¶m Wm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Û¡V-àUmbr"
+      },
+      {
+        "id": "B",
+        "text": "gmåàXm{¶H$ à{V{Z{YËd"
+      },
+      {
+        "id": "C",
+        "text": "g§KdmX"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 69,
+    "question": "\"\"^maV ‘| dh ‘hmZ EH$Vm H$Îmm© Wm {OgZo Ho$db Xÿgamo H$mo g{hîUw hr Zhr ~Zm¶m A{nVw CZH$mo AnZo {‘Ìm| Am¡a gm{W¶m| ‘| Amngr {Oå‘oXmar Ho$ gmW ^r ñdrH$m¶© H$adm¶m Wm'' ¶h {H$gZo H$hm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gw^mf M§Ð ~mog"
+      },
+      {
+        "id": "B",
+        "text": "~mbJ§JmYa {VbH$"
+      },
+      {
+        "id": "C",
+        "text": "amOoÝÐ àgmX"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 70,
+    "question": "Xoe Ho$ ~mha ñdVÝÌ ^maV H$s AñWmB© gaH$ma H$mo g§J{R>V H$aZo ‘| H$m¡Z AmJo ~‹T>m?>",
+    "options": [
+      {
+        "id": "A",
+        "text": "amOm ‘hoÝÐ àVmn"
+      },
+      {
+        "id": "B",
+        "text": "amg {~hmar ~mog"
+      },
+      {
+        "id": "C",
+        "text": "gw^mf M§Ð ~mog"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 20 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 71,
+    "question": "qhXr gm{hË¶ Ho$ B{Vhmg H$mo {H$VZo H$mbm| ‘| ~m±Q>m J¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "VrZ"
+      },
+      {
+        "id": "B",
+        "text": "Mma"
+      },
+      {
+        "id": "C",
+        "text": "nm±M"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 72,
+    "question": "H$~ra Xmg H$m OÝ‘ H$~ hþAm Wm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1398 B©."
+      },
+      {
+        "id": "B",
+        "text": "1410 B©."
+      },
+      {
+        "id": "C",
+        "text": "1427 B©."
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 73,
+    "question": "{dÚmnVr H$s ^mfm ³¶m Wr?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AdYr"
+      },
+      {
+        "id": "B",
+        "text": "I‹S>r ~mobr"
+      },
+      {
+        "id": "C",
+        "text": "‘¡{Wbr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 74,
+    "question": "\"\"‘¡¶m ‘¢ Zqh ‘mIZ Im¶mo& »¶mb na¡ no gIm g~¡ {‘{b, ‘oao ‘wI bnQ>m¶m¡&&'' - {H$gH$s n§{º$¶m± h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H¥$îUXmg"
+      },
+      {
+        "id": "B",
+        "text": "Z§XXmg"
+      },
+      {
+        "id": "C",
+        "text": "gyaXmg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht PART - III (HINDI)"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 75,
+    "question": "VwbgrXmg lram‘M[aV‘mZg ‘| {H$VZo H$m§S> h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nm±M"
+      },
+      {
+        "id": "B",
+        "text": "gmV"
+      },
+      {
+        "id": "C",
+        "text": "AmR>"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 76,
+    "question": "ar{V H$mb Ho$ H${d Zht h¡ :",
+    "options": [
+      {
+        "id": "A",
+        "text": "{~hmar"
+      },
+      {
+        "id": "B",
+        "text": "Om¶gr"
+      },
+      {
+        "id": "C",
+        "text": "KZmZ§X"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 77,
+    "question": "AmYw{ZH$ H$mb H$m àma§^ {H$g gZ² go ‘mZm J¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1850 B©."
+      },
+      {
+        "id": "B",
+        "text": "1870 B©."
+      },
+      {
+        "id": "C",
+        "text": "1900 B©."
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 78,
+    "question": "\"{ÛdoXr ¶wJ' H$m Zm‘H$aU {H$gHo$ Zm‘ na hþAm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AmMm¶© hOmar àgmX {ÛdoXr"
+      },
+      {
+        "id": "B",
+        "text": "AmMm¶© ‘hmdra àgmX {ÛdoXr"
+      },
+      {
+        "id": "C",
+        "text": "AmMm¶© am‘oída {ÛdoXr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 21 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 79,
+    "question": "{H$g H${d H$mo amï´>H${d go g§~mo{YV {H$¶m OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O¶ e§H$a àgmX"
+      },
+      {
+        "id": "B",
+        "text": "am‘ Zaoe {ÌnmR>r"
+      },
+      {
+        "id": "C",
+        "text": "‘¡{Wbr eaU Jwá"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 80,
+    "question": "gw^Ðm Hw$‘mar Mm¡hmZ {H$g ag H$s H$d{¶Ìr h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "^{º$ ag"
+      },
+      {
+        "id": "B",
+        "text": "dmËgë¶ ag"
+      },
+      {
+        "id": "C",
+        "text": "dra ag"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 81,
+    "question": "\"\"Xþ{Z¶m± H¡$gr ~mCar, nËWa nyOZ OmE& Ka H$s M{H$¶m H$moC Z nyOo, {OgH$m nrgm ImE&&'' - {H$g H${d H$s n§{º$¶m± h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ahr‘ Xmg"
+      },
+      {
+        "id": "B",
+        "text": "H$~ra Xmg"
+      },
+      {
+        "id": "C",
+        "text": "gw§Xa Xmg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 82,
+    "question": "\"JmoXmZ' {H$gH$m {bIm CnÝ¶mg h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ào‘M§X"
+      },
+      {
+        "id": "B",
+        "text": "H$‘boída"
+      },
+      {
+        "id": "C",
+        "text": "O¡Z|Ð"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 83,
+    "question": "\"eVa§O Ho$ {Ibm‹S>r' {H$g {dYm H$s aMZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘hmH$mì¶"
+      },
+      {
+        "id": "B",
+        "text": "CnÝ¶mg"
+      },
+      {
+        "id": "C",
+        "text": "I§S>H$mì¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 84,
+    "question": "\"nwîn H$s A{^bmfm' {H$gH$s H${dVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "am‘ Zaoe {ÌnmR>r"
+      },
+      {
+        "id": "B",
+        "text": "‘mIZ bmb MVwd}Xr"
+      },
+      {
+        "id": "C",
+        "text": "~mbH¥$îU e‘m© \"ZdrZ'"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 85,
+    "question": "{ZåZ{b{IV ‘| go CnÝ¶mg H¥${V H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$‘©^y{‘"
+      },
+      {
+        "id": "B",
+        "text": "JmoXmZ"
+      },
+      {
+        "id": "C",
+        "text": "CgZo H$hm Wm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 22 12/MAV/M-2024-02/S-302-E {ZX}e : (àíZ g§»¶m 86 go 90 VH$) : àñVwV An{R>V JÚm§e H$mo Ü¶mZnyd©H$ n{‹T>E Am¡a nyN>o JE àíZm| Ho$ ghr {dH$ën MwZH$a CÎma nÌH$ ‘| {M{•V H$s{OE - ‘Zwî¶ {dYmVm H$s g¥{ï> H$m gdm©{YH$ qMVZerb àmUr h¡& CgH$s àJ{V Ho$ {bE àH¥${V n[adoe gXm ‘wñH$amVm ahVm h¡& àmV: H$mbrZ gy¶© H$s ñd{U©‘ {H$aU| OmJaU JrV gwZmVr h¢& dm{Q>H$m Ho$ nwîn CZH$m nW gwa{^V H$aVo h¢& d¡ídrH$aU ‘| Xem| {XemAm| ‘| ‘mZd - ‘mJ© àeñV hmo J¶m h¡&>"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 86,
+    "question": "\"‘Zwî¶ {dYmVm H$s g¥{ï> H$m gdm©{YH$ qMVZerb àmUr h¡&' ‘| {H$gH$s MMm© H$s JB© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "{dYmVm H$s"
+      },
+      {
+        "id": "B",
+        "text": "{dYmVm H$s g¥{ï> H$s"
+      },
+      {
+        "id": "C",
+        "text": "‘Zwî¶ H$s"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 87,
+    "question": "àH¥${V n[adoe {H$gHo$ {bE ‘wñH$amVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘Zwî¶ Ho$ {bE"
+      },
+      {
+        "id": "B",
+        "text": "g¥{ï> Ho$ {bE"
+      },
+      {
+        "id": "C",
+        "text": "{dYmVm Ho$ {bE"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 88,
+    "question": "OmJaU JrV H$m¡Z Jm ahm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gy¶©"
+      },
+      {
+        "id": "B",
+        "text": "{H$aU|"
+      },
+      {
+        "id": "C",
+        "text": "àmV: H$mb"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 89,
+    "question": "dm{Q>H$m Ho$ nwîn {H$gH$m nW gwa{^V H$aVo h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘Zwî¶ H$m"
+      },
+      {
+        "id": "B",
+        "text": "g¥{ï> H$m"
+      },
+      {
+        "id": "C",
+        "text": "gy¶© H$m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 90,
+    "question": "d¡ídrH$aU ‘| ‘mJ© àeñV hmoZo H$m ³¶m AW© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "hOmam| ‘mJ© hmoZm"
+      },
+      {
+        "id": "B",
+        "text": "g¡H$‹S>m| ‘mJ© hmoZm"
+      },
+      {
+        "id": "C",
+        "text": "‘mJ© gwb^ hmoZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht {ZX}e (àíZ g§»¶m 91 go 95 VH$) : àñVwV An{R>V JÚm§e H$mo Ü¶mZnyd©H$ n{‹T>E Am¡a nyN>o JE àíZm| Ho$ ghr {dH$ën MwZH$a CÎma nÌH$ ‘| {M{•V H$s{OE ‘Zwî¶ AnZr g’$bVm Am¡a àgÞVm Ho$ {bE ~MnZ go hr à¶ËZerb ahVm h¡& ghOmZw^y{V ‘| J{Verb ahZo H$s D$Om© {‘bVr h¡& ‘m± H$s ‘wñH$mZ XoI h±gZo H$s BÀN>m OJ OmVr h¡& {nVm H$s C±Jbr nH$‹S> H$a ^mJZo H$s BÀN>m OJ OmVr h¡& gm{hË¶-MMm© Am¡a g¥OZ Y‘© AnZmZo go gañdVr Ho$ CnmgH$ ~Z OmVo h¢& >"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 91,
+    "question": "Bg‘| {H$gH$s MMm© H$s JB© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "à¶ËZ H$s"
+      },
+      {
+        "id": "B",
+        "text": "g’$bVm H$s"
+      },
+      {
+        "id": "C",
+        "text": "àgÞVm H$s"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 23 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 92,
+    "question": "J{Verb ahZo H$s D$Om© H$~ {‘bVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AZw^y{V ‘|"
+      },
+      {
+        "id": "B",
+        "text": "ghOVm ‘|"
+      },
+      {
+        "id": "C",
+        "text": "ghOmZw^y{V ‘|"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 93,
+    "question": "~ƒo H$mo h±gZo H$s BÀN>m H$~ hmoVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘m± H$mo XoIH$a"
+      },
+      {
+        "id": "B",
+        "text": "‘wñH$mZ XoIH$a"
+      },
+      {
+        "id": "C",
+        "text": "‘m± H$s ‘wñH$mZ XoIH$a"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 94,
+    "question": "{nVm H$s C±Jbr nH$‹S> H$a {H$go ^mJZo H$s BÀN>m hmoVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nwÌ H$s"
+      },
+      {
+        "id": "B",
+        "text": "nwÌr H$s"
+      },
+      {
+        "id": "C",
+        "text": "XmoñV H$s"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 95,
+    "question": "gañdVr Ho$ CnmgH$ H¡$go ~ZVo h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gm{hË¶-MMm© go"
+      },
+      {
+        "id": "B",
+        "text": "gm{hË¶-g¥OZ go"
+      },
+      {
+        "id": "C",
+        "text": "gm{hË¶-MMm© Am¡a gm{hË¶-g¥OZ go"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht {ZX}e (àíZ g§»¶m 96 go 100 VH$) : àñVwV An{R>V JÚm§e H$mo Ü¶mZnyd©H$ n{‹T>E Am¡a nyN>o JE àíZm| Ho$ ghr {dH$ën MwZH$a CÎma- nÌH$ ‘| {M{•V H$s{OE - nd©V Ho$ Pa-Pa PaVo, PaZo AnZo g§JrV go nd©Vr¶ àXoe g§JrV‘¶ ~Zm XoVo h¢& Va§Jm| go ‘MbVr g[aVm AnZo {ZH$Q>dVu joÌ H$mo ham-^am H$a XoVr h¡& nd©V go b‹wT>>H$Vm nmfmU g[aVm H$s J{VerbVm Ho$ g§J ~hH$a H$ë¶mUH$mar {ed ~Z OmVm h¡& dZñn{V¶m| Ho$ ~rO n{j¶m| H$m g§J nmH$a Xÿa-Xÿa nhþ±MH$a ‘MbVo bVm-Jwë‘ Am¡a d¥j ~Z OmVo h¢& dg§V H$s ^tZr hdm H${b¶m| Ho$ AmoR>m| na ‘Ywa ‘wñH$mZ bm XoVr h¡&>"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 96,
+    "question": "nd©Vr¶ àXoe g§JrV‘¶ H¡$go ~Z OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PaZo go"
+      },
+      {
+        "id": "B",
+        "text": "PaZo Ho$ Pa-Pa go"
+      },
+      {
+        "id": "C",
+        "text": "PaZo Ho$ g§JrV go"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 97,
+    "question": "g[aVm H$m {ZH$Q>dVu joÌ ham-^am H¡$go hmo OmVm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "g[aVm H$s {ZH$Q>Vm go"
+      },
+      {
+        "id": "B",
+        "text": "g[aVm H$s Ob-Va§Jm| go"
+      },
+      {
+        "id": "C",
+        "text": "g[aVm Ho$ ‘MbZo go"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 98,
+    "question": "nËWa go {ed ~ZZo H$m ³¶m AW© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "g§wXa ê$n nmZm"
+      },
+      {
+        "id": "B",
+        "text": "M‘ËH$ma hmoZm"
+      },
+      {
+        "id": "C",
+        "text": "H$ë¶mUH$mar hmoZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 24 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 99,
+    "question": "dZñn{V¶m| Ho$ ZE-ZE bVm-Jwë‘ Xÿa-Xÿa H¡$go nh±þM OmVo h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CZHo$ ~rO go"
+      },
+      {
+        "id": "B",
+        "text": "n{j¶m| go"
+      },
+      {
+        "id": "C",
+        "text": "g§J{V go"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 100,
+    "question": "dg§V ‘| H${b¶m| ‘| ‘wñH$mZ ³¶m| AmVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "dg§V H$s ^rZr hdm go"
+      },
+      {
+        "id": "B",
+        "text": "hdm go"
+      },
+      {
+        "id": "C",
+        "text": "^rZr hdm go"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht {ZX}e (àíZ g§»¶m 101 go 105 VH$) : àñVwV An{R>V JÚm§e H$mo Ü¶mZnyd©H$ n{‹T>E Am¡a nyN>o JE àíZm| Ho$ ghr {dH$ën MwZH$a CÎma-nÌH$ ‘| {M{•V H$s{OE - {dYmVm H$s g¥{ï> gy¶© Am¡a Mm±X H$s Am^m go Ambmo{H$V h¡& ga g[aVm go har-^ar, ‘mZdVm go n[ab{gV h¡& àH¥${V Ho$ Aà{V‘ gm¢X¶© ‘| ‘mZd Ho$ ‘mZdr¶ ^mdmH$f©U ‘| {dYmVm H$mo YaVr na ~ma-~ma AdVma boZm n‹S>Vm h¡& Y‘© ^y{‘ g§V, ‘hmË‘mAm| H$mo nmH$a YÝ¶ hmo JB© h¡& eV-eV Z‘Z h¡ ¶h nmdZ, {Xì¶ ñWbr ‘mV¥^y{‘ H$mo&"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 101,
+    "question": "{dYmVm H$s g¥{ï> {H$g àH$ma Ambmo{H$V h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Am^m go Ambmo{H$V h¡"
+      },
+      {
+        "id": "B",
+        "text": "gy¶© H$s Am^m go Ambmo{H$V h¡"
+      },
+      {
+        "id": "C",
+        "text": "gy¶© Am¡a Mm±X H$s Am^m go Ambmo{H$V h¡"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 102,
+    "question": "{H$go n[ab{gV hmoZo H$s ~mV H$hr JB© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘mZdVm"
+      },
+      {
+        "id": "B",
+        "text": "ga-g[aVm"
+      },
+      {
+        "id": "C",
+        "text": "g¥{ï>"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 103,
+    "question": "{dYmVm H$mo ~ma-~ma YaVr na AdVma ³¶m| boZm n‹S>Vm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "àH¥$Vr go"
+      },
+      {
+        "id": "B",
+        "text": "àH¥${V-gm¢X¶m©H$f©U"
+      },
+      {
+        "id": "C",
+        "text": "‘mZdr¶ ^mdmH$f©U"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 104,
+    "question": "¶h ^y{‘ YÝ¶ H¡$go hþB©?",
+    "options": [
+      {
+        "id": "A",
+        "text": "g§V-‘hmË‘mAm| H$mo nmH$a"
+      },
+      {
+        "id": "B",
+        "text": "g§V H$mo nmH$a"
+      },
+      {
+        "id": "C",
+        "text": "‘hmË‘mAm| H$mo nmH$a"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 105,
+    "question": "{H$gH$mo eV-eV Z‘Z {H$¶m J¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nmdZVm H$mo"
+      },
+      {
+        "id": "B",
+        "text": "{Xì¶ ñWbr H$mo"
+      },
+      {
+        "id": "C",
+        "text": "‘mV¥^y‘r H$mo"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 25 12/MAV/M-2024-02/S-302-E [P.T.O. {ZX}e (àíZ g§»¶m 106 go 110 VH$) : àñVwV An{R>V JÚm§e H$mo Ü¶mZnyd©H$ n{‹T>E Am¡a nyN>o JE àíZm| Ho$ ghr {dH$ën MwZH$a CÎma-nÌH$ ‘| {M{•V H$s{OE - Jwê$ ‘mo‘~Îmr H$s Vah ObH$a JbH$a {eî¶ H$mo COmbm XoVm h¡& {eî¶ Jwê$ H$m gm{ÞÜ¶ nmH$a gÝ‘mJ© H$m n{WH$ ~Z OmVm h¡& {eî¶ ‘| AmË‘-{dídmg H$m AmbmoH$ OJ‘Jm CR>Vm h¡& AmË‘-qMVZ, AmË‘-{dídmg bú¶ VH$ nhþ±MmZo H$m AmYma ~Z OmVm h¡& g’$bVm H$m ÜdO CgHo$ ‘ñVH$ Ho$ ngrZo H$mo gm’$ H$aZo Ho$ {bE bhamZo bJVm h¡&"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 106,
+    "question": "Jwê$ H$m ‘mo‘~Îmr H$s Vah ObZm-JbZm H$m ³¶m AW© h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "OrdZ-InmZm"
+      },
+      {
+        "id": "B",
+        "text": "gX²H$m¶© H$aZm"
+      },
+      {
+        "id": "C",
+        "text": "g‘¶ bJmZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 107,
+    "question": "gm{ÞÜ¶ nmZm H$m ³¶m ^md h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "gmW"
+      },
+      {
+        "id": "B",
+        "text": "ghH$‘©"
+      },
+      {
+        "id": "C",
+        "text": "N>ÌN>m¶m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 108,
+    "question": "AmË‘-{dídmg H$m AmbmoH$ ³¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$‘©-nW na MbZo H$m gwÑ‹T> {ZíM¶>"
+      },
+      {
+        "id": "B",
+        "text": "{H$gr AÝ¶ na ^amogm Z H$aZm"
+      },
+      {
+        "id": "C",
+        "text": "AmË‘m-na‘mË‘m H$m kmZ"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 109,
+    "question": "bú¶-àm{á H$m AmYma ³¶m ~Vm¶m J¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AmË‘-qMVZ"
+      },
+      {
+        "id": "B",
+        "text": "AmË‘-{dídmg"
+      },
+      {
+        "id": "C",
+        "text": "AmË‘-qMVZ Am¡a AmË‘-{dídmg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 110,
+    "question": "‘ñVH$ Ho$ ngrZo H$mo gm’$ H$aZo Ho$ {bE ÜdO bhamZm H$m ³¶m ^md h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M{M©V hmoZm"
+      },
+      {
+        "id": "B",
+        "text": "g’$bVm H$m {ZíM¶Z"
+      },
+      {
+        "id": "C",
+        "text": "Iwe hmoZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 111,
+    "question": "ñda g§{Y eãX H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "OJXre"
+      },
+      {
+        "id": "B",
+        "text": "namonH$ma"
+      },
+      {
+        "id": "C",
+        "text": "g‚mZ"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 112,
+    "question": "{dgJ© g§{Y eãX H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Z‘ñVo"
+      },
+      {
+        "id": "B",
+        "text": "Za|Ð"
+      },
+      {
+        "id": "C",
+        "text": "{dÚmb¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 26 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 113,
+    "question": "X¶mZ§X H$m g§{Y {dÀN>oX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "X¶m + Z§X"
+      },
+      {
+        "id": "B",
+        "text": "X¶ + AmZ§X"
+      },
+      {
+        "id": "C",
+        "text": "X¶m + AmZ§X"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 114,
+    "question": "qhXr ‘| g‘mg Ho$ {H$VZo ^oX h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nm±M"
+      },
+      {
+        "id": "B",
+        "text": "N>:"
+      },
+      {
+        "id": "C",
+        "text": "gmV"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 115,
+    "question": "H$‘©Yma¶ g‘mg-eãX H$m M¶Z H$a| -",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$mbr Q>monr"
+      },
+      {
+        "id": "B",
+        "text": "Mm¡‘mgm"
+      },
+      {
+        "id": "C",
+        "text": "Zrb H$‘b"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 116,
+    "question": "\"ZrbH§$R>' ‘| {H$g g‘mg H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "~hþd«r{h g‘mg"
+      },
+      {
+        "id": "B",
+        "text": "H$‘©Yma¶ g‘mg"
+      },
+      {
+        "id": "C",
+        "text": "Aì¶¶r^md g‘mg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 117,
+    "question": "ì¶mH$aU Ho$ eãX ‘Subject’ H$m qhXr n[a^m{fH$ eãX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "{df¶"
+      },
+      {
+        "id": "B",
+        "text": "g§X^©"
+      },
+      {
+        "id": "C",
+        "text": "H$Vm©"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 118,
+    "question": "ì¶mH$aU Ho$ eãX ‘Verb’ H$m qhXr nm[a^m{fH$ eãX h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$m¶©"
+      },
+      {
+        "id": "B",
+        "text": "{H«$¶m"
+      },
+      {
+        "id": "C",
+        "text": "H$m‘"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 119,
+    "question": "ewÕ nm[a^m{fH$ qhXr eãX H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ob hdm"
+      },
+      {
+        "id": "B",
+        "text": "Zra dm¶w"
+      },
+      {
+        "id": "C",
+        "text": "Obdm¶w"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 120,
+    "question": "\"dh AmO Yrao-Yrao Mb ahm h¡&' - dm³¶ ‘| Yrao-Yrao ì¶mH$aU Ho$ AZwgma ³¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "{H«$¶m"
+      },
+      {
+        "id": "B",
+        "text": "{H«$¶m {deofU"
+      },
+      {
+        "id": "C",
+        "text": "{deofU"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 27 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 121,
+    "question": "\"no‹S> na njr MhMhm aho h¢&' - dm³¶ ‘| \"na' {H$g H$maH$ H$m {Mh²Z à¶wº$ h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$aU H$maH$"
+      },
+      {
+        "id": "B",
+        "text": "AnmXmZ H$maH$"
+      },
+      {
+        "id": "C",
+        "text": "A{YH$aU H$maH$"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 122,
+    "question": "\"H$‘a H$gZm' ‘whmdao H$m AW© h¡-",
+    "options": [
+      {
+        "id": "A",
+        "text": "noQ>r bJmZm"
+      },
+      {
+        "id": "B",
+        "text": "V¡¶ma hmoZm"
+      },
+      {
+        "id": "C",
+        "text": "H$‘a na ~m±YZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 123,
+    "question": "\"{H$ñ‘V IwbZm' ‘whmdao H$m AW© h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "^m½¶ M‘H$Zm"
+      },
+      {
+        "id": "B",
+        "text": "^m½¶moX¶"
+      },
+      {
+        "id": "C",
+        "text": "^m½¶ nbQ> OmZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 124,
+    "question": "\"‘w±h ‘| am‘ ~Jb ‘| Ny>ar' bmoH$mo{º$ H$m AW© h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "D$na go {‘ÌVm, A§Xa go eÌwVm"
+      },
+      {
+        "id": "B",
+        "text": "YmoIo H$s ^{º$"
+      },
+      {
+        "id": "C",
+        "text": "am‘ Zm‘ boH$a Jbm H$mQ>Zm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 125,
+    "question": "ewÕ dm³¶ H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "a{d Ho$ ~mX gmo‘dma H$m {XZ hmoVm h¡&"
+      },
+      {
+        "id": "B",
+        "text": "a{ddma Ho$ ~mX gmo‘ hmoVm h¡&"
+      },
+      {
+        "id": "C",
+        "text": "a{ddma Ho$ ~mX gmo‘dma hmoVm h¡&"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 126,
+    "question": "ewÕ dm³¶ H$m M¶Z H$s{OE -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amn AmO H$hm± Om aho h¡&"
+      },
+      {
+        "id": "B",
+        "text": "{H$VZm gww§Xa ’y$b h¡&"
+      },
+      {
+        "id": "C",
+        "text": "í¶m‘ Zo CZgo ³¶m H$hm Wm?"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 127,
+    "question": "‘¶m©Xm nwê$fmoÎm‘ am‘ dm{Q>H$m Ho$ {Ib{IbmH$a h±gVo g§wXa ’y$bm| H$mo XoIH$a h±g aho Wo&' dm³¶ Ho$ {deofU nX~§Y H$m M¶Z H$s{OE&",
+    "options": [
+      {
+        "id": "A",
+        "text": "‘¶m©Xmnwê$fmoÎm‘ am‘"
+      },
+      {
+        "id": "B",
+        "text": "{Ib{IbmH$a h±gVo gw§Xa"
+      },
+      {
+        "id": "C",
+        "text": "h±g aho Wo"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 128,
+    "question": "\"\"dh ^¶§H$a Vwμ’$mZ Ho$ Pm|Ho$ H$s Vah ^mJ J¶m'' -dm³¶ ‘| H$m¡Z-gm nX~§Y h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "g§km nX ~§Y"
+      },
+      {
+        "id": "B",
+        "text": "{deofU nX~§Y"
+      },
+      {
+        "id": "C",
+        "text": "{H«$¶m {deofU nX~§Y"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 28 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 129,
+    "question": "dmÀ¶ Ho$ {H$VZo ^oX h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "VrZ"
+      },
+      {
+        "id": "B",
+        "text": "Mma"
+      },
+      {
+        "id": "C",
+        "text": "nm±M"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 130,
+    "question": "\"Cggo n‹T>m Zht OmVm>' - dm³¶ ‘| {H$g dmÀ¶ H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$V©¥dmÀ¶"
+      },
+      {
+        "id": "B",
+        "text": "H$‘©dmÀ¶"
+      },
+      {
+        "id": "C",
+        "text": "^mddmÀ¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 131,
+    "question": "aMZm Ho$ AmYma na dm³¶ Ho$ {H$VZo ^oX h¢?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xmo"
+      },
+      {
+        "id": "B",
+        "text": "VrZ"
+      },
+      {
+        "id": "C",
+        "text": "nm±M"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 132,
+    "question": "\"‘¢ {bI ahm h±ÿ Am¡a Amn h±g aho h¡!' - g§aMZm AmYma na dm³¶ ê$n ~VmBE&",
+    "options": [
+      {
+        "id": "A",
+        "text": "gab dm³¶"
+      },
+      {
+        "id": "B",
+        "text": "g§¶wº$ dm³¶"
+      },
+      {
+        "id": "C",
+        "text": "{‘l dm³¶"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 133,
+    "question": "‘oK‘¶ Amg‘mZ go CVa ahr g§Ü¶m gw§Xar nar gr Yrao, Yra, Yrao! - Bg nÚm§e ‘| H$m¡Z-gr eãX e{º$ h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A{^Ym"
+      },
+      {
+        "id": "B",
+        "text": "bjUm"
+      },
+      {
+        "id": "C",
+        "text": "ì¶§OZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 134,
+    "question": "C{XV CX¶ {Jar ‘§M na, aKwda ~mb nV§J& {dH$go g§V-gamoO g~, hafo bmoMZ ^§¥J&& - BZ n§{º$¶m| ‘| {H$g Ab§H$ma H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CËàojm"
+      },
+      {
+        "id": "B",
+        "text": "Cn‘m"
+      },
+      {
+        "id": "C",
+        "text": "ê$nH$"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 135,
+    "question": "\"nr¶a nmV g[ag ‘Z S>mobm&' - Bg‘| {H$g Ab§H$ma H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ê$nH$"
+      },
+      {
+        "id": "B",
+        "text": "CËàojm"
+      },
+      {
+        "id": "C",
+        "text": "{damoYm^mg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 136,
+    "question": "A{V H$Qw> ~MZ H$h{V H¡$Ho$B©& ‘mZhþ bmoZ Oao na XoB©&& - Bg nÚm§e {H$g Ab§H$ma H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CËàojm"
+      },
+      {
+        "id": "B",
+        "text": "{damoYm^mg"
+      },
+      {
+        "id": "C",
+        "text": "Cn‘m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 29 12/MAV/M-2024-02/S-302-E [P.T.O."
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 137,
+    "question": "¶m AZwamJr {MÎm H$s, J{V g‘wP¡ Zqh H$moB©& Á¶m|-Á¶m| ~y‹S>¡, ñ¶m‘ a§J, Ë¶m|-Ë¶m| C‚mdb hmoB&& - Bg nÚm§e ‘| {H$g Ab§H$ma H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CËàojm"
+      },
+      {
+        "id": "B",
+        "text": "Cn‘m"
+      },
+      {
+        "id": "C",
+        "text": "{damoYm^mg"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 138,
+    "question": "AWm©b§H$ma H$s n[a^mfm h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bg‘| AW©JV M‘ËH$ma hmoVm h¡&"
+      },
+      {
+        "id": "B",
+        "text": "Bg‘| ^mdnj H$s àYmZVm hmoVr h¡&"
+      },
+      {
+        "id": "C",
+        "text": "Bg‘| H$ënZm H$m ^r AmYma hmo gH$Vm h¡&"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 139,
+    "question": "N>§X H$s n[a^mfm H$m ñdê$n h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "H${dVm ‘| dUm] H$s ¶moOZm N>§X h¡&"
+      },
+      {
+        "id": "B",
+        "text": "H${dVm ‘| ‘mÌm H$s ¶moOZm N>§X h¡&"
+      },
+      {
+        "id": "C",
+        "text": "H${dVm ‘| ‘{V H$s ¶moOZm N>§X h¡&"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 140,
+    "question": "Ag H${h {’$a {MVE Vo{h Amoam& {g¶ ‘wI g{g ^E, Z¶Z MH$moam&& - Bg‘| {H$g N>§X H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mm¡nmB©"
+      },
+      {
+        "id": "B",
+        "text": "amobm"
+      },
+      {
+        "id": "C",
+        "text": "gmoaR>m"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 141,
+    "question": "Xmohm N>§X ‘| ‘mÌm {dYmZ ³¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "àW‘-V¥Vr¶ MaU ‘| 11 ‘mÌmE± Am¡a {ÛVr¶-MVwW© MaU ‘| 13 ‘mÌmE±"
+      },
+      {
+        "id": "B",
+        "text": "àW‘-V¥Vr¶ MaU ‘| 13 ‘mÌmE± Am¡a {ÛVr¶- MVwW© MaU ‘| 11 ‘mÌmE±"
+      },
+      {
+        "id": "C",
+        "text": "Mmam| MaUm| ‘| 12-12 ‘mÌmAm| H$s ¶moOZm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 142,
+    "question": "B§ÐdO«m N>§X H$s n[a^mfm h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "11 dUm] H$s ¶moOZm ‘| VJU, OJU Am¡a Xmo Jwê$ hmoVo h¢&"
+      },
+      {
+        "id": "B",
+        "text": "11 dUm] H$s ¶moOZm ‘| VJU, OJU, OJU Am¡a Xmo Jwê$ hmoVo h¢&"
+      },
+      {
+        "id": "C",
+        "text": "11 dUm] H$s ¶moOZm ‘| VJU-VJU, OJU Am¡a Xmo Jwê$ hmoVo h¢&"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 143,
+    "question": "~‹S>m {H$ N>moQ>m Hw$N> H$m‘ H$s O¡, na§Vw nydm© na gmoM br O¡& {~Zm {dMmao ¶{X H$m‘ hmoJm, H$^r Z AÀN>m n[aUm‘ hmoJm&& - Bg‘| {H$g N>§§X H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B§ÐdO«m"
+      },
+      {
+        "id": "B",
+        "text": "Cn|ÐdO«m"
+      },
+      {
+        "id": "C",
+        "text": "‘m{bZr"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 30 12/MAV/M-2024-02/S-302-E"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 144,
+    "question": "~Zm aho ào‘ gXm ñdXoe H$m, VWm aho Ü¶mZ gXm ñdXoe H$m& ~wam h‘am Z H$^r M[aÌ hmo, {dMmaYmam A{V hr n{dÌ hmo&& - Bg‘| {H$g Û§X H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ÐþV{db§{~V"
+      },
+      {
+        "id": "B",
+        "text": "‘m{bZr"
+      },
+      {
+        "id": "C",
+        "text": "d§eñW"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 145,
+    "question": "AmMm¶© ^aV‘w{Z Zo H$mì¶-JwUm| g§»¶m {H$VZr ‘mZr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xg"
+      },
+      {
+        "id": "B",
+        "text": "Voah"
+      },
+      {
+        "id": "C",
+        "text": "n§Ðh"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 146,
+    "question": "‘§X ‘§X ‘wabr ~OmdV AYa Yao& ‘§X ‘§X {ZH$aMmo ‘wHw§$X ‘YwdZ V|&& - Bg‘§o {H$g H$mì¶-JwU H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AmoO JwU"
+      },
+      {
+        "id": "B",
+        "text": "H$m§{V JwU"
+      },
+      {
+        "id": "C",
+        "text": "‘mYw¶© JwU"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 147,
+    "question": "‘w§S> H$Q>V H$hþ±, ê§$S> ZQ>V H$hþ± gw§S> nQ>V YZ& {JÕ bgV H$h±þ, {gÕ h±gV gwI d¥{Õ agV ‘Z&& - Bg‘| {H$g H$mì¶-JwU H$s ¶moOZm h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "àgmX"
+      },
+      {
+        "id": "B",
+        "text": "AmoO"
+      },
+      {
+        "id": "C",
+        "text": "CXmaVm"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 148,
+    "question": "H$ê$U ag H$m ñWm¶r ^md ³¶m h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "{Zd}X"
+      },
+      {
+        "id": "B",
+        "text": "H«$moY"
+      },
+      {
+        "id": "C",
+        "text": "emoH$"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 149,
+    "question": "‘¡¶m H$~{h ~‹T>oJr MmoQ>r, {H$Vr ~ma ‘moqh XÿY {n¶V ‘B©, ¶h AOh±ÿ h¡ N>moQ>r& Vy Omo H$hVr ~b H$s ~oZr, Á¶m| hd¡ h¢ b§~r ‘moQ>r& H$m‹T>V JwhV ZhmdV nm|N>V Zm{JZ gr ‘w±B bmoQ>r&>> - Bg‘| {H$g ag H$s A{^ì¶{º$ hmoVr h¡?",
+    "options": [
+      {
+        "id": "A",
+        "text": "l§¥Jma"
+      },
+      {
+        "id": "B",
+        "text": "dmËgë¶"
+      },
+      {
+        "id": "C",
+        "text": "em§V"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  },
+  {
+    "questionNumber": 150,
+    "question": "\"\"aU ~rM Mm¡H$‹S>r ^a-^a H$a, MoVH$ ~Z J¶m {Zambm Wm& amUm H$s nwVbr {’$ar Zht, V~ VH$ MoVH$ ‘w‹S> OmVm Wm&'' - BZ n§{º$¶m| ‘| {H$g ag H$s ¶moOZm h¡ -",
+    "options": [
+      {
+        "id": "A",
+        "text": "dra ag"
+      },
+      {
+        "id": "B",
+        "text": "am¡Ð ag"
+      },
+      {
+        "id": "C",
+        "text": "^¶mZH$ ag"
+      },
+      {
+        "id": "D",
+        "text": "Cn¶w©º$ ‘| go EH$ go A{YH$"
+      },
+      {
+        "id": "E",
+        "text": "Cn¶w©º$ ‘| go H$moB© Zht 31 12/MAV/M-2024-02/S-302-E [P.T.O. SPACE FOR ROUGH WORK / aμ’$ H$m¶© Ho$ {bE ñWmZ aμ’$ H$m¶© Ho$ {bE ñWmZ aμ’$ H$m¶© Ho$ {bE ñWmZ aμ’$ H$m¶© Ho$ {bE ñWmZ aμ’$ H$m¶© Ho$ {bE ñWmZ 32 àíZ-nwpñVH$m ^mfm, gm‘mÝ¶ AÜ¶¶Z Am¡a {hÝXr g‘¶ : 2:30 KÊQ>o nyUmªH$ : 150 12/MAV/M-2024-02 àíZm| Ho$ CÎma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo Ü¶mZ go n‹T> b|& E nwpñVH$m l§¥Ibm Cå‘rXdma H$m AZwH«$‘m§H$ Note : English version of the instructions is printed on the First Page of this Booklet. 302 ‘hÎdnyU© AZwXoe>"
+      }
+    ],
+    "exam": "BPSC",
+    "type": "mcq"
+  }
+]
