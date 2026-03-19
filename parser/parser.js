@@ -432,7 +432,7 @@ function extractQuestion(block){
   if (parenIdx >= 0) return raw.slice(0, parenIdx).trim();
 
   // Look for the start of an A/B/C option run; avoid cutting on sentences like "A person..."
-  const aRegex = /\bA\b\s*[).:\-]?\s+/g;
+  const aRegex = /\bA\b\s*[).:\-]?\s+/gi;
   let match;
   while ((match = aRegex.exec(raw)) !== null) {
     const idx = Number(match.index || 0);
@@ -454,8 +454,16 @@ function extractOptions(block){
   const options = [];
   const seen = new Set();
 
+  const normalizeOptionId = (id) => {
+    const raw = String(id || "").trim().toUpperCase();
+    if (/^[1-5]$/.test(raw)) {
+      return String.fromCharCode(64 + Number(raw));
+    }
+    return raw;
+  };
+
   const push = (id, value) => {
-    const normalizedId = String(id || "").trim().toUpperCase();
+    const normalizedId = normalizeOptionId(id);
     if (!["A", "B", "C", "D", "E"].includes(normalizedId)) return;
     const normalizedText = String(value || "").replace(/\s+/g, " ").trim();
     if (!normalizedText) return;
@@ -466,14 +474,16 @@ function extractOptions(block){
   };
 
   // (a) style
-  const paren = Array.from(text.matchAll(/\(([a-e])\)\s*([\s\S]*?)(?=\([a-e]\)|$)/gi));
+  const paren = Array.from(text.matchAll(/\(([a-e1-5])\)\s*([\s\S]*?)(?=\([a-e1-5]\)|$)/gi));
   for (const opt of paren) {
     push(opt[1], opt[2]);
   }
 
   // A) / A. / A: style
   if (options.length === 0) {
-    const letterPunct = Array.from(text.matchAll(/\b([A-E])\b\s*[).:\-]\s*([\s\S]*?)(?=\b[A-E]\b\s*[).:\-]\s*|$)/g));
+    const letterPunct = Array.from(
+      text.matchAll(/\b([A-E1-5])\b\s*[).:\-]\s*([\s\S]*?)(?=\b[A-E1-5]\b\s*[).:\-]\s*|$)/gi)
+    );
     for (const opt of letterPunct) {
       push(opt[1], opt[2]);
     }
@@ -481,11 +491,11 @@ function extractOptions(block){
 
   // Loose fallback: "E None of these" (requires at least A,B,C present)
   if (options.length === 0) {
-    const loose = Array.from(text.matchAll(/\b([A-E])\b\s+([\s\S]*?)(?=\b[A-E]\b\s+|$)/g));
+    const loose = Array.from(text.matchAll(/\b([A-E1-5])\b\s+([\s\S]*?)(?=\b[A-E1-5]\b\s+|$)/gi));
     const temp = [];
     const ids = new Set();
     for (const opt of loose) {
-      const id = String(opt[1] || "").toUpperCase();
+      const id = normalizeOptionId(opt[1]);
       const value = String(opt[2] || "");
       if (!["A", "B", "C", "D", "E"].includes(id)) continue;
       ids.add(id);
@@ -547,8 +557,8 @@ function buildQuestion(entry,index,directionRanges){
 
     options,
 
-    answerKey:"A",
-    answer:options.length ? options[0].text : "",
+    answerKey:"",
+    answer:"",
 
     explanation:""
 

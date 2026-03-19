@@ -12,7 +12,8 @@
     "build": "npm run build:ui",
     "start:api": "cd guru-api && npm start",
     "start:ui": "cd guru-ui && npm start",
-    "install:all": "cd guru-api && npm install && cd ../guru-ui && npm install"
+    "install:all": "cd guru-api && npm install && cd ../guru-ui && npm install",
+    "pre-release": "bash scripts/pre-release-check.sh"
   },
   "engines": {
     "node": ">=18.0.0"
