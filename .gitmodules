@@ -1,0 +1,6 @@
+[submodule "guru-ui"]
+	path = guru-ui
+	url = git@github.com:brij2020/guru-ui.git
+[submodule "guru-api"]
+	path = guru-api
+	url = git@github.com:brij2020/guru-api.git
