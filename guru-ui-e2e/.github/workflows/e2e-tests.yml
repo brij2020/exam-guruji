@@ -1,0 +1,119 @@
+name: E2E Tests
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+  workflow_dispatch:
+
+env:
+  NODE_VERSION: '20'
+  BASE_URL: ${{ secrets.BASE_URL || 'http://localhost:3000' }}
+  ADMIN_EMAIL: ${{ secrets.ADMIN_EMAIL }}
+  ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+  API_BASE_URL: ${{ secrets.API_BASE_URL || 'http://13.203.195.153:4000' }}
+
+jobs:
+  test:
+    name: Run E2E Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3]
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Wait for application
+        run: |
+          for i in {1..30}; do
+            curl -f ${{ env.BASE_URL }} > /dev/null 2>&1 && break
+            echo "Waiting for application..."
+            sleep 2
+          done
+
+      - name: Run Playwright tests
+        run: npm run test -- --shard=${{ matrix.shard }}/3 --reporter=list
+
+      - name: Upload Playwright Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report-shard-${{ matrix.shard }}
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 14
+
+      - name: Upload Screenshots on Failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots-shard-${{ matrix.shard }}
+          path: screenshots/
+          retention-days: 7
+
+  test-multi-browser:
+    name: Multi-Browser Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
+      - name: Run tests on all browsers
+        run: npm run test -- --reporter=list --project=chromium --project=firefox --project=webkit
+        continue-on-error: true
+
+  notify:
+    name: Notify Status
+    needs: [test, test-multi-browser]
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+      - name: Check job status
+        run: |
+          if [[ "${{ needs.test.result }}" == "failure" ]]; then
+            echo "Tests failed"
+            exit 1
+          fi
+          echo "All tests passed"

@@ -1,0 +1,40 @@
+{
+  "name": "guru-ui-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end UX automation tests for Guru AI exam preparation platform",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "test:mobile": "playwright test --project='Mobile Chrome' --project='Mobile Safari'",
+    "test:smoke": "playwright test --grep=@smoke",
+    "test:regression": "playwright test --grep=@regression",
+    "test:auth": "playwright test tests/flows/auth.spec.ts",
+    "test:question-publisher": "playwright test tests/flows/questionPublisher.spec.ts",
+    "test:admin": "playwright test tests/flows/admin.spec.ts",
+    "report": "playwright show-report",
+    "report:html": "playwright show-report playwright-report",
+    "report:json": "cat playwright-report/results.json | jq",
+    "clean": "rimraf playwright-report test-results screenshots",
+    "preinstall": "npx playwright install --with-deps",
+    "postinstall": "npx playwright install-deps"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.0.0",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.0.0",
+    "jq": "^1.7.0",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
